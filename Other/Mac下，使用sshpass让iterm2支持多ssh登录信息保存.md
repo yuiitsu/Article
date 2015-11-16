@@ -5,7 +5,7 @@ windowsÀïÓĞ¸öXshell·Ç³£µÄ·½±ãºÃÊ¹£¬ÒòÎªËüÄÜ±£´æÄãËùÓĞµÄsshµÇÂ¼ÕÊºÅĞÅÏ¢¡£MACÏÂ²¢Ã
 ## °²×°sshpass
 ÏÂÔØ£º[http://sourceforge.net/projects/sshpass/files/](http://sourceforge.net/projects/sshpass/files/)
 ½âÑ¹ºó£¬½øÈësshpassÄ¿Â¼£¬Ö´ĞĞ°²×°
-'''shell
+'''java
 ./configure
 make
 make install
