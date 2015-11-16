@@ -18,4 +18,4 @@ sshpass -h
 让sshpass使用ssh密码，需要先将密码保存在一个文件里，再通过sshpass读文件来获取密码，iterm2就可以通过这样的命令来登录主机，密码文件很简单，取一个好名字，把密码写进去就可以了，没有别的任何东西，如，在用户目录的sshpass目录建一个名为pass的文件，里面写上主机密码：123456，文件地址为：/Users/用户名/sshpass/pass
 ## 配置iterm2
 打开iterm的profiles选项
-[image](https://github.com/onlyfu/Blog/blob/master/static/images/01.png)
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/01.png)
