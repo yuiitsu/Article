@@ -13,7 +13,7 @@
 
 写扩展只有一个文件是固定的，其它的并没有什么固定的要求，如固定的格式，固定的文件夹等。这个固定的文件就是它的配置文件，一个JSON格式的文件：manifest.json，基本内容如下：
 ##### manifest.json
-``` Bash
+``` 
 {
 	"manifest_version": 2,
 	"name": "My Extension",
@@ -32,7 +32,8 @@
 2. 页面内容
 
 那么，如果你的扩展需要涉及什么，就得把它添加到配置JSON里，也就是manifest.json文件中，如需要用到Tab：
-```javascript
+
+```
 {
 	"manifest_version": 2,
 	"name": "My Extension",
@@ -44,7 +45,8 @@
 }
 ```
 permissions即为允许的，它会告诉chrome，这个插件是允许操作Tab的，不然chrome就允许让你使用它Tab相关的API。所以，如果还有使用书签，或是别的什么东西时，都可以写在这里面。如，我们要使用代理相关的API：
-```javascript
+
+```
 {
 	"manifest_version": 2,
 	"name": "My Extension",
