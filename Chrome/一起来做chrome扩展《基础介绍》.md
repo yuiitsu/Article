@@ -13,6 +13,7 @@
 
 写扩展只有一个文件是固定的，其它的并没有什么固定的要求，如固定的格式，固定的文件夹等。这个固定的文件就是它的配置文件，一个JSON格式的文件：manifest.json，基本内容如下：
 ##### manifest.json
+<div style="overflow-x:auto;">
 ```javascript
 {
 	"manifest_version": 2,
@@ -21,6 +22,7 @@
 	"version": "1.0"
 }
 ```
+</div>
 这是一个最简单的文件，有2个需要注意的问题：
 
 1. 目前的规定，manifest_version必须写为2，所以其它的数字就不要写了，特别是1
