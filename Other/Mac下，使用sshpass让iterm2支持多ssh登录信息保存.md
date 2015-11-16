@@ -19,3 +19,19 @@ sshpass -h
 ## 配置iterm2
 打开iterm的profiles选项
 ![image](https://github.com/onlyfu/Blog/blob/master/static/images/01.png)
+添加一个新的profile，其它没什么好配置的，主要是在General的command中选择使用command，命令就是sshpass的执行命令，如：
+```java
+/usr/local/bin/sshpass -f /Users/fuwy/sshpass/pass ssh -p22 root@112.124.25.173
+```
+/usr/local/bin/sshpass是sshpass执行文件的路径，如果按默认情况安装，它肯定会出现在这个位置上
+
+-f 是告诉sshpass加载文件
+
+/Users/fuwy/sshpass/pass就是要加载的文件，即前面建的密码文件
+
+ssh -p22 root@112.124.25.173是说用ssh链接，端口22，root帐号和IP地址
+
+保存后，选择该profile，就可以实际ssh登录。只是如果是本机第一次登录，是不会成功的，因为ssh登录需要你yes确认，会写文件到hosts里，所以第一次会直接失败，再来一次或是先在终端里用ssh root@ip来登录一次，就可以了。
+这样，新建多个profile，就可以实现管理登录了。
+
+iterm2和xshell比起来还是有很多不好使的地方，比如，无法直接看到主机IP，有时候想复制一下不方便。tab上的名称不能自定义，多开几个之后，不太好区分等等。但是有总比没有好，所以，还是不错的。
