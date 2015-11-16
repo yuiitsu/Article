@@ -13,7 +13,7 @@
 
 写扩展只有一个文件是固定的，其它的并没有什么固定的要求，如固定的格式，固定的文件夹等。这个固定的文件就是它的配置文件，一个JSON格式的文件：manifest.json，基本内容如下：
 ##### manifest.json
-```
+``` Bash
 {
 	"manifest_version": 2,
 	"name": "My Extension",
