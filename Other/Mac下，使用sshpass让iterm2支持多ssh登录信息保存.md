@@ -5,13 +5,13 @@ windowsÀïÓĞ¸öXshell·Ç³£µÄ·½±ãºÃÊ¹£¬ÒòÎªËüÄÜ±£´æÄãËùÓĞµÄsshµÇÂ¼ÕÊºÅĞÅÏ¢¡£MACÏÂ²¢Ã
 ## °²×°sshpass
 ÏÂÔØ£º[http://sourceforge.net/projects/sshpass/files/](http://sourceforge.net/projects/sshpass/files/)
 ½âÑ¹ºó£¬½øÈësshpassÄ¿Â¼£¬Ö´ĞĞ°²×°
-```java
+```
 ./configure
 make
 make install
 ```
 ÀíÂÛÉÏ²»»á³öÊ²Ã´ÎÊÌâ£¬°²×°ºÃºó£¬Ö´ĞĞÃüÁî¼ì²éÊÇ·ñÒÑ¾­OK
-```shell
+```
 sshpass -h
 ```
 ## ×¼±¸ÃÜÂë
@@ -20,7 +20,7 @@ sshpass -h
 ´ò¿ªitermµÄprofilesÑ¡Ïî
 ![image](https://github.com/onlyfu/Blog/blob/master/static/images/01.png)
 Ìí¼ÓÒ»¸öĞÂµÄprofile£¬ÆäËüÃ»Ê²Ã´ºÃÅäÖÃµÄ£¬Ö÷ÒªÊÇÔÚGeneralµÄcommandÖĞÑ¡ÔñÊ¹ÓÃcommand£¬ÃüÁî¾ÍÊÇsshpassµÄÖ´ĞĞÃüÁî£¬Èç£º
-```java
+```
 /usr/local/bin/sshpass -f /Users/fuwy/sshpass/pass ssh -p22 root@112.124.25.173
 ```
 /usr/local/bin/sshpassÊÇsshpassÖ´ĞĞÎÄ¼şµÄÂ·¾¶£¬Èç¹û°´Ä¬ÈÏÇé¿ö°²×°£¬Ëü¿Ï¶¨»á³öÏÖÔÚÕâ¸öÎ»ÖÃÉÏ
