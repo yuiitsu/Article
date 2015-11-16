@@ -10,3 +10,7 @@ windowsÀïÓÐ¸öXshell·Ç³£µÄ·½±ãºÃÊ¹£¬ÒòÎªËüÄÜ±£´æÄãËùÓÐµÄsshµÇÂ¼ÕÊºÅÐÅÏ¢¡£MACÏÂ²¢Ã
 make
 make install
 ```
+ÀíÂÛÉÏ²»»á³öÊ²Ã´ÎÊÌâ£¬°²×°ºÃºó£¬Ö´ÐÐÃüÁî¼ì²éÊÇ·ñÒÑ¾­OK
+```shell
+sshpass -h
+```
