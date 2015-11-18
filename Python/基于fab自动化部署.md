@@ -1,9 +1,13 @@
 # 基于fab自动化部署
+```
+### 更新 修正启动Tomcat不成功问题 2015/11/18 
+```
 fab是一个python库，强大好使，可以做很多帮助你减轻工作量的事情，比如在多台服务器上部署web项目，这里就讲讲使用它简单的方法来执行部署的过程。
 
 关于fab的安装的基本使用，网上一搜一大把，内容都差不多，所以这里就不介绍，下载去官网：[http://www.fabfile.org/](http://www.fabfile.org/)
 
 本文会涉及到以下几个内容：
+
 1. 自动SSH登录
 2. 运行命令
 3. 错误处理
@@ -154,7 +158,8 @@ def startTomcat():
 
 	action = "start tomcat"
 
-	res = run("/sh/start.sh")
+	# 启动脚本，注意set -m;如果没有它，tomcat会随着本进程关闭而关闭
+	res = run("set -m; /sh/start.sh")
 	if res.failed and not confirm(getRedMessage(actionName, 'msg')):
 		abort(getRedMessage(actionName, 'abort'))
 
