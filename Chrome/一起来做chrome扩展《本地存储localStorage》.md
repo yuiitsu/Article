@@ -1,0 +1,278 @@
+# 一起来做chrome扩展《本地存储localStorage》
+chrome中的本地存储其实也是用的HTML5中localStorage，唯一区别是chrome扩展有自己的localStorage，它属于这个扩展，而不属于一个域名。得用这一点可以很好的处理扩展自己的一些数据，而不受访问网站和域名的影响。
+
+## localStorage基础
+
+localStorage是HTML5特性，所以有些浏览器不一定支持，不过我们这里讲的是chrome扩展，所以完全不用担心这个问题。如果想在WEB页面上使用，那就要检查一下是不是支持它
+
+可以这样的检测：
+
+```
+if(window.localStorage){
+	console.log('支持');
+}else{
+	console.log('不支持');
+}
+```
+
+localStorage和memcache一样，是key/value的存储类型，所以，除非你只存字符串，不然就得以json的形式来存储。之后解析成数组，就可以很好的使用里面的值。
+
+增删改查：
+
+```
+// 存储/修改
+localStorage.name = 'only';
+localStorage['name'] = 'only';
+
+// 删除
+localStorage['name'] = null; 删除一个
+localStorage.clear(); 删除所有
+
+// 查
+var name = localStorage.name;
+var name = localStorage['name'];
+```
+
+localStorage是不能跨域的，所以不同域名的localStorage是互不干扰的。比如在jgb.com上存储了一个值，在www.jgb.com是访问不了它的，反之亦然。
+
+## chrome扩展中的localStorage
+
+扩展中的localStorage没什么不同，只是有一个注意点，content_script中的localStorage是存储在对应域名下的，所以别的域名是不能访问的。background_script中的localStorage是存储在chrome扩展下的，所以不管什么域名都可以访问它。这一点很重要，如果没有这个特性，扩展的应用场景就会少很多很多。
+
+## 查看localStorage
+
+查看对应域名的localStorage
+
+右键选择审查元素，如图选择
+![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/01.png)
+查看扩展的localStorage
+
+打开扩展界面，打开你扩展的背景页
+![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/02.png)
+如图选择
+![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/03.png)
+
+## 简单示例
+
+这个示例很简单，扩展将匹配www.jgb.cn和www.amazon.com，打开两个网站后，会在页面中间显示一个列表和一个表单，列表是以前填入的名字，表单可以填入你名字另外的名字。列表里，可以删除一条，也可以删除所有名字。简单也讲，就是一个增删查。在这个例子中，可以看到，在www.jgb.cn和www.amazon.com中都是可以读取和操作这些存储内容的，不受域名的限制。
+
+第一步：建立文件夹
+
+目录名就叫localstorage，目录中的结构基本如图：
+![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/04.png)
+里面除了mainfest.json是必须的，其它东西都可以按自己的习惯来
+
+第二步：建立mainfest.json文件
+
+之前的日志已经讲过这个文件，所以这里就直接帖内容
+
+```
+{
+	"manifest_version": 2,
+	"name": "一起来做chrome扩展之本地存储",
+	"version": "0.1",
+	"description": "一个简单的本地存储例子",
+	"background": {
+		"scripts": [
+			"include/jquery-1.11.0.min.js",	
+			"scripts/background.js"
+		]
+	},
+	"content_scripts": [{
+		"matches": [
+			"http://*.jgb.cn/*",
+			"http://*.amazon.com/*"
+		],
+		"css": ["css/common.css"],
+		"js": [
+			"include/jquery-1.11.0.min.js",
+			"scripts/main.js"
+		]
+	}]
+}
+```
+如果对这个文件不熟悉，可以看看一起来做chrome扩展《基础介绍》
+
+把jquery拷贝到include中，再到scripts目录建立main.js和background.js
+
+第三步：创建界面
+
+这里我们创建一个简单的界面，在目标网站的正中间，显示一个500*300的浮动层，正常js，写法随意
+```
+var main = {
+	
+	/**
+	 * 创建界面
+	 */
+	createHtml: function(){
+		var _html = '<div id="ls_box">'+
+			'<h3>'+
+				'本地存储 local storage'+
+			'</h3>'+
+			'<div id="ls_list">'+
+				'正在加载数据...'+
+			'</div>'+
+			'<div id="ls_form">'+
+				'<label>'+
+					'新增: '+
+				'</label>'+
+				'<input type="text" id="ls_message" />'+
+				'<button id="ls_save">保存</button>'+
+			'</div>'+
+		'</div>';
+		$('body').append(_html);
+	}
+}
+```
+界面大致如下
+![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/05.png)
+
+第四步：向background发送消息
+
+方法很简单
+```
+/**
+ * 向background发送消息
+ * @params strAction string 执行方法
+ * @params dicData dict 数据字典
+ * @params callback function 回调函数
+ */
+sendMessageBack: function(strAction, dicData, callback){
+	chrome.extension.sendMessage({'action': strAction, 'data': dicData}, callback);
+},
+```
+第五步：将存储内容输出到页面
+```
+/**
+ * 将已有数据写到页面上
+ */
+showList: function(dicList){
+	if(!dicList || dicList.length == 0){
+		$("#ls_list").html('<p>没有找到数据</p>');
+		return;
+	}
+
+	// 遍历对象，构建输出html
+	var _html = ['<ul>'];
+	for(var i in dicList){
+		_html.push('<li><span class="ls_del" data-item="'+dicList[i]+'">X</span>'+dicList[i]+'</li>');
+	}
+	_html.push('</ul>');
+	$("#ls_list").html(_html.join(''));
+
+	// 监听删除
+	_this.listenDel();
+},
+```
+第六步：监听保存
+
+一个简单的单击事件，把文本内容发送给background.js，然后将返回的数据利用上面的方法输出到页面上
+```
+/**
+ * 监听保存事件
+ */
+listenSave: function(){
+	_this = this;
+
+	$("#ls_save").click(function(){
+		// 获取message
+		var strMessage = $.trim($('#ls_message').val());
+		if(!strMessage){
+			return false;
+		}
+		// 通知background，保存数据
+		_this.sendMessageBack('save', {'message': strMessage}, function(response){
+			if(response.status == 200){
+				// 将内容输出到页面
+				_this.showList(response.data);
+				$('#ls_message').val('');
+			}
+		});
+	});
+},
+```
+第七步：监听删除
+
+删除和保存同理，只是发送到background的请求方法不同，正常JS操作，这里就不帖代码，最后看看background.js的监听与返回消息
+
+第八步：background监听消息与返回
+```
+/**
+ * 监听content_script发送的消息
+ */
+chrome.extension.onMessage.addListener(function(request, _, sendResponse){
+	// 返回数据
+	var dicReturn;
+
+	// 读取已存数据
+	if(request.action == 'list'){
+		// 从localstorage中读取数据
+		var strList = localStorage['list'];
+		if(strList){
+			// 将json字符串转为对象
+			var dicList = JSON.parse(strList)
+			dicReturn = {'status': 200, 'data': dicList}
+		}else{
+			dicReturn = {'status': 404}
+		}
+
+		// 向content_script返回信息
+		sendResponse(dicReturn);
+	}
+
+	// 保存
+	if(request.action == 'save'){
+		// content_script传来message
+		var strMessage = request.data.message;
+		// 从localstorage中读取数据
+		var strList = localStorage['list'];
+		var dicList = [];
+		if(strList){
+			// 将json字符串转为对象
+			dicList = JSON.parse(strList)
+		}
+		dicList.push(strMessage);
+		localStorage['list'] = JSON.stringify(dicList);
+
+		dicReturn = {'status': 200, 'data': dicList};
+		// 向content_script返回信息
+		sendResponse(dicReturn);
+	}
+
+	// 删除
+	if(request.action == 'del'){
+		// content_script传来的message
+		var strMessage = request.data.message;
+		// 从localstorage中读取数据
+		var strList = localStorage['list'];
+		if(strList){
+			// 将json字符串转为对象
+			dicList = JSON.parse(strList);
+			// 遍历数据，找到对应值
+			for(var i in dicList){
+				if(dicList[i] == strMessage){
+					// 删除该值
+					dicList.splice(i, 1);
+				}
+			}
+
+			// 重新存储
+			localStorage['list'] = JSON.stringify(dicList);
+			// 向content_script返回信息
+			sendResponse({'status': 200});
+		}else{
+			sendResponse({'status': 501, 'msg': '删除失败，未有数据'});
+		}
+	}
+})
+```
+接收content_script发来的数据，使用request.data.message，data.message都是自己定义的key，所以想传什么，都可以自己定
+
+返回值使用sendResponse()方法，内容为一个对象，content_script接受到后，可以直接使用，所以就有了if(response.status == 200){}这样的写法。
+
+一个简单的本地存储就是这样了，加载到chrome或是同一内核的浏览器中，打开www.jgb.cn或是www.amazon.com，就可以看到扩展界面，保存一些数据，在两个网站刷新，会发现，数据都是可以获取的。
+
+## 源代码
+
+本示例代码：[https://github.com/onlyfu/localstorage](https://github.com/onlyfu/localstorage)
+
