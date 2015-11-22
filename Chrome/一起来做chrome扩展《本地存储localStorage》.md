@@ -44,12 +44,17 @@ localStorage是不能跨域的，所以不同域名的localStorage是互不干�
 查看对应域名的localStorage
 
 右键选择审查元素，如图选择
+
 ![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/01.png)
+
 查看扩展的localStorage
 
 打开扩展界面，打开你扩展的背景页
+
 ![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/02.png)
+
 如图选择
+
 ![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/03.png)
 
 ## 简单示例
@@ -59,7 +64,9 @@ localStorage是不能跨域的，所以不同域名的localStorage是互不干�
 第一步：建立文件夹
 
 目录名就叫localstorage，目录中的结构基本如图：
+
 ![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/04.png)
+
 里面除了mainfest.json是必须的，其它东西都可以按自己的习惯来
 
 第二步：建立mainfest.json文件
@@ -91,6 +98,7 @@ localStorage是不能跨域的，所以不同域名的localStorage是互不干�
 	}]
 }
 ```
+
 如果对这个文件不熟悉，可以看看一起来做chrome扩展《基础介绍》
 
 把jquery拷贝到include中，再到scripts目录建立main.js和background.js
@@ -98,6 +106,7 @@ localStorage是不能跨域的，所以不同域名的localStorage是互不干�
 第三步：创建界面
 
 这里我们创建一个简单的界面，在目标网站的正中间，显示一个500*300的浮动层，正常js，写法随意
+
 ```
 var main = {
 	
@@ -124,12 +133,15 @@ var main = {
 	}
 }
 ```
+
 界面大致如下
+
 ![image](https://github.com/onlyfu/Blog/raw/master/static/images/chrome/20151122/05.png)
 
 第四步：向background发送消息
 
 方法很简单
+
 ```
 /**
  * 向background发送消息
@@ -141,7 +153,9 @@ sendMessageBack: function(strAction, dicData, callback){
 	chrome.extension.sendMessage({'action': strAction, 'data': dicData}, callback);
 },
 ```
+
 第五步：将存储内容输出到页面
+
 ```
 /**
  * 将已有数据写到页面上
@@ -164,9 +178,11 @@ showList: function(dicList){
 	_this.listenDel();
 },
 ```
+
 第六步：监听保存
 
 一个简单的单击事件，把文本内容发送给background.js，然后将返回的数据利用上面的方法输出到页面上
+
 ```
 /**
  * 监听保存事件
@@ -191,11 +207,13 @@ listenSave: function(){
 	});
 },
 ```
+
 第七步：监听删除
 
 删除和保存同理，只是发送到background的请求方法不同，正常JS操作，这里就不帖代码，最后看看background.js的监听与返回消息
 
 第八步：background监听消息与返回
+
 ```
 /**
  * 监听content_script发送的消息
@@ -266,6 +284,7 @@ chrome.extension.onMessage.addListener(function(request, _, sendResponse){
 	}
 })
 ```
+
 接收content_script发来的数据，使用request.data.message，data.message都是自己定义的key，所以想传什么，都可以自己定
 
 返回值使用sendResponse()方法，内容为一个对象，content_script接受到后，可以直接使用，所以就有了if(response.status == 200){}这样的写法。
