@@ -52,7 +52,7 @@ $/usr/local/squid/sbin/squid -s
 
 安装过程中可能会遇到的一些问题：
 
-** configure: error: no acceptable C compiler found in $PATH **
+**configure: error: no acceptable C compiler found in $PATH**
 
 本问题是没有安装GCC，安装即可：
 
@@ -60,7 +60,7 @@ $/usr/local/squid/sbin/squid -s
 $yum install gcc
 ```
 
-** configure: error: C++ compiler cannot create executables **
+**configure: error: C++ compiler cannot create executables**
 
 本问题是安装了GCC，但没有安装C++，安装即可：
 
@@ -68,7 +68,7 @@ $yum install gcc
 $yum install gcc-c++
 ```
 
-** /usr/bin/ld cannot find -lssl **
+**/usr/bin/ld cannot find -lssl**
 
 本问题是没有指定openssl目录位置，在configure的时候把系统中openssl所在的目录带上
 
@@ -76,7 +76,7 @@ $yum install gcc-c++
 $./configure --with-openssl=/usr/lib64/openssl
 ```
 
-** make时报错：ext_file_userip_acl.cc:254: error: 'errno' was not declared in this scope **
+**make时报错：ext_file_userip_acl.cc:254: error: 'errno' was not declared in this scope**
 
 请修改文件：helpers/external_acl/file_userip/ext_file_userip_acl.cc
 
@@ -86,7 +86,7 @@ $./configure --with-openssl=/usr/lib64/openssl
 #include <cerrno>
 ```
 
-** 外网访问提示：Access Denied **
+**外网访问提示：Access Denied**
 
 说明配置只允许本地访问，修改配置文件/usr/local/squid/etc/squid.conf
 
