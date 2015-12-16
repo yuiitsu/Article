@@ -85,7 +85,11 @@ mysql.sock在哪里，再看一下mysql.sock的真正位置，使用命令：ps 
 
 明显不在一个位置上，我的正确位置是：/var/lib/mysql/mysql.sock
 
-所以，修改一下php.ini，找到pdo_mysql.default_socket，改为你的实际位置，重启一下php-fpm，如果还不行，可以到/tmp目录下建立一个mysql.sock的软链接：
+所以，修改一下php.ini，找到pdo_mysql.default_socket，改为你的实际位置，重启一下php-fpm，很不幸，虽然php.ini有这个配置，修改后，竟然不行，最好是编译的时候，指定mysql.socket的位置：
+
+> --with-mysql-sock=/var/lib/mysql/mysql.sock
+
+如果还不行，可以到/tmp目录下建立一个mysql.sock的软链接：
 
 ```
 ln -s /var/lib/mysql/mysql.sock mysql.sock
