@@ -91,5 +91,4 @@ mysql.sock在哪里，再看一下mysql.sock的真正位置，使用命令：ps 
 ln -s /var/lib/mysql/mysql.sock mysql.sock
 ```
 
-再重启一次php-fpm，相信已经正常运行了
-
+再重启一次php-fpm，相信已经正常运行了。如果需要PHP支持的库更多，可以再次编译，在configure时把需要的支持加上，就是--with-xxx这中，记得如果是三方的，要先安装这些库才行哦。
