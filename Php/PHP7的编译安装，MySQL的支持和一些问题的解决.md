@@ -60,6 +60,17 @@ php-fpm参数：
 
 > --with-pdo-mysql=mysqlnd
 
+mysqlnd是不需要mysql支持的，所以不用先安装好mysql一样可以编译通过，启动php-fpm，查看一下phpinfo，能看到mysqlnd和pdo_mysql表示php已经可以支持mysql了（这里用的是pdo，mysqli同理）
 
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/php/20151216/002.png)
+
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/php/20151216/003.png)
+
+## 几个问题
+
+### 编译问题：cc: Internal error: Killed (program cc1)
+
+这个问题是第一次遇到，原来是我的阿里云服务器关掉了swap，内存不够用，就报了这个错。
+解决办法很简单，configure时加上--disable-fileinfo参数就可以了。
 
 
