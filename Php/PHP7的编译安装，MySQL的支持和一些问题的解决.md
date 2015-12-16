@@ -73,4 +73,23 @@ mysqlnd是不需要mysql支持的，所以不用先安装好mysql一样可以编
 这个问题是第一次遇到，原来是我的阿里云服务器关掉了swap，内存不够用，就报了这个错。
 解决办法很简单，configure时加上--disable-fileinfo参数就可以了。
 
+### PHP报找不到mysql服务
+
+正如它所说，确实没找到，看看phpinfo中pdo_mysql.default_socket项
+
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/php/20151216/004.png)
+
+mysql.sock在哪里，再看一下mysql.sock的真正位置，使用命令：ps -ef|grep mysql查看：
+
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/php/20151216/005.png)
+
+明显不在一个位置上，我的正确位置是：/var/lib/mysql/mysql.sock
+
+所以，修改一下php.ini，找到pdo_mysql.default_socket，改为你的实际位置，重启一下php-fpm，如果还不行，可以到/tmp目录下建立一个mysql.sock的软链接：
+
+```
+ln -s /var/lib/mysql/mysql.sock mysql.sock
+```
+
+再重启一次php-fpm，相信已经正常运行了
 
