@@ -15,9 +15,9 @@
     
 * Javascript
 
-    [1.一起来做webgame，《Javascript蜘蛛纸牌.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%9C%98%E8%9B%9B%E7%BA%B8%E7%89%8C%E3%80%8B.md)
+    [1.一起来做webgame，《Javascript蜘蛛纸牌》.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%9C%98%E8%9B%9B%E7%BA%B8%E7%89%8C%E3%80%8B.md)
     
-    [2.一起来做webgame，《Javascript贪食蛇.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%B4%AA%E9%A3%9F%E8%9B%87%E3%80%8B.md)
+    [2.一起来做webgame，《Javascript贪食蛇》.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%B4%AA%E9%A3%9F%E8%9B%87%E3%80%8B.md)
     
 * NodeJs
 
