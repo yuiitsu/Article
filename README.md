@@ -42,7 +42,3 @@
 * Python
 
     [1.基于fab自动化部署.md](https://github.com/yuiitsu/Blog/blob/master/Python/%E5%9F%BA%E4%BA%8Efab%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.md)
-
-* Other
-
-    [1.一起来做webgame，《Javascript贪食蛇.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%B4%AA%E9%A3%9F%E8%9B%87%E3%80%8B.md)
