@@ -20,10 +20,13 @@ neovim在D盘根目录，那它的路径就是：D:\Neovim\bin，将它添加到
 
 ## 2. ActualVim
 ActualVim就是Sublime Text的一个插件了，正常安装它
+
 Install Package
+
 找到ActualVim，安装即可
 
 如上，重启Sublime后，完美的Vim已经可以正常使用了，非常简单。**最主要就是需要添加NeoVim的bin到环境变量**。
+
 后话，虽然Sublime Text 3完美的支持了Vim，但如果因为要断点继续安装更多的插件，其实我是不愿意的，所以用它来写写前端还是可以的，Python/Java/Node之类的，我还是会用Idea，即使有点小缺陷。
 
 谢谢阅读
