@@ -36,6 +36,8 @@
     [4.双服务器，CentOS系统，使用Squid和Stunnel搭建翻墙代理服务.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E5%8F%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8CCentOS%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BD%BF%E7%94%A8Squid%E5%92%8CStunnel%E6%90%AD%E5%BB%BA%E7%BF%BB%E5%A2%99%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1.md)
 
     [5.聊一聊电商的营销系统插件化.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E8%81%8A%E4%B8%80%E8%81%8A%E7%94%B5%E5%95%86%E7%9A%84%E8%90%A5%E9%94%80%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6%E5%8C%96.md)
+
+    [6.Sublime Text 3安装完美的Vim支持，ActualVim/NeoVim.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E8%81%8A%E4%B8%80%E8%81%8A%E7%94%B5%E5%95%86%E7%9A%84%E8%90%A5%E9%94%80%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6%E5%8C%96.md)
     
 * PHP
 
