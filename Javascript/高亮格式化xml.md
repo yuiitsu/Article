@@ -5,7 +5,8 @@
 2. 递归遍历xml树，按格式输出每一个节点
 
 ## 关于使用DOMParser
-此方法目前在IE9以上和其它浏览器里都是支持的，所以这里不在写关于IE9以下不支持的情况
+此方法目前在IE9以上和其它浏览器里都是支持的，所以这里不在写关于IE9以下不支持的情况, 具体的使用请跳转
+[https://developer.mozilla.org/en-US/docs/Web/API/DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
 
 ## Javascript代码
 
@@ -62,6 +63,9 @@ this.parse_xml = function(content) {
 .code-null{color:magenta;}
 .code-key{color:#003377;font-weight:bold;}
 ```
+
+## 效果
+![image](https://github.com/onlyfu/Blog/blob/master/static/images/javascript/20180812235710.png)
 
 ## 注意
 DOMParser在解析xml时，如果xml字符串里有些特殊的字符，解出来的树节点有些是不需要的，会倒置遍历节点失败。
