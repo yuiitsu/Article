@@ -6,7 +6,7 @@ chrome在一次更新之后，出于安全考虑，完全的禁止了content_scr
 使用content_script
 
 要使用content_script，需要在manifest.json中配置，如下：
-```
+```json
 {
 	"manifest_version": 2,
 	"name": "My Extension",
@@ -23,7 +23,7 @@ chrome在一次更新之后，出于安全考虑，完全的禁止了content_scr
 这样，在页面加载完成后，就会加载content.js，在content.js里，就可以控制页面元素。如果要在content.js中使用jquery，需要将jquery文件加到content.js前面，如：
 
 content_script使用jquery
-```
+```json
 {
 	"content_scripts": {
 		"js": [
@@ -36,7 +36,7 @@ content_script使用jquery
 除了可以加载js，content_scripts里还可以加载CSS文件，这样可以让你的扩展漂亮一点，如：
 
 content_script使用CSS
-```
+```json
 {
 	"content_scripts": {
 		"js": [
@@ -49,7 +49,7 @@ content_script使用CSS
 在content_scripts中，还有一项重要的设置就是matches，它是用来配置，符合扩展使用的网址，如：我只想这个扩展在打开www.jgb.cn时才启用，那么matches就要这样写：
 
 设置匹配网站
-```
+```json
 {
 	"content_scripts": {
 		"js": [
@@ -63,7 +63,7 @@ content_script使用CSS
 }
 ```
 如果还要匹配www.amazon.com，那就加上：
-```
+```json
 {
 	"matches": [
 		"http://*.jgb.cn/*",
@@ -72,7 +72,7 @@ content_script使用CSS
 }
 ```
 注意，http只适用于http，像amazon.com这样的站即有http也有https，所以得把https也加上，如下：
-```
+```json
 {
 	"matches": [
 		"http://*.jgb.cn/*",
@@ -87,7 +87,7 @@ content_script使用CSS
 使用background_script
 
 要使用background_script，需要在manifest.json中配置，如下：
-```
+```json
 {
 	"manifest_version": 2,
 	"name": "My Extension",
@@ -104,7 +104,7 @@ content_script使用CSS
 使用jquery和content_scripts同理，需要把jquery文件加到background.js前面，如：
 
 在background_script中使用jquery
-```
+```json
 {
 	"background": {
 		"scripts": [
@@ -116,7 +116,7 @@ content_script使用CSS
 ```
 ## 跨域
 默认情况下Ajax是不允许跨域的，但扩展提供了跨域的配置，在前一篇《基础介绍》中提到过，那就是permissions，它除了可以让扩展使用chrome的一些功能外，还可以允许JS实现对目录网站的跨域访问，如：
-```
+```json
 {
 	"permissions": [
 		"http://www.jgb.cn/" // 允许跨域访问www.jgb.cn
@@ -126,11 +126,11 @@ content_script使用CSS
 有了以上的配置，这时候就可以来看看怎样通过background_scripts来实现Ajax请求了。
 ## 向background发送请求
 在content_script中向background_script发送请求有好几种方式，这里只列出我常的一种，应该来讲，能满足大多数情况的使用，其它方法，请查询文档，方法如下：
-```
+```javascript
 chrome.extension.sendMessage({}, callBack);
 ```
 sendMessage()方法，它有两个参数，第一个要发送的数据，就像post请求一样，第二个是回调函数。如在content_script中，点击一个按钮，将一个字符串发送到background_script
-```
+```javascript
 $(function(){
 	$("#button").click(function(){
 		chrome.extension.sendMessage({'txt': '这里是发送的内容'}, function(d){
@@ -141,13 +141,13 @@ $(function(){
 ```
 ## 在background中监听content请求
 在background中监听content请求，使用chrome.extension.onMessage.addListener()，示例如下：
-```
+```javascript
 chrome.extension.onMessage.addListener(function(objRequest, _, sendResponse){});
 ```
 objRequest，即为请求的参数，在上一个例子就是{'txt': '这里是发送的内容'}，可以通过objRequest.txt来获取内容。其实就是一个字典。
 
 sendResponse，为返回值方法，可以将数据返回给content_script，那么一个简单的例子就是：
-```
+```javascript
 chrome.extension.onMessage.addListener(function(objRequest, _, sendResponse){
 	var strText = objRequest.txt;
 	// 将信息能过Ajax发送到服务器

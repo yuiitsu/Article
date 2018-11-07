@@ -1,94 +1,120 @@
-![Top-10-Extensions-For-Google-Chrome-2015.jpg][1]
+# 一起来做Chrome扩展《页面右键菜单》
+
+***
+
+![][1]
+
+
 
 ## 本文主要内容
+
 - contextMenus的设置
-    - 打开权限
-    - 创建菜单
-    - 点击菜单
+  - 打开权限
+  - 创建菜单
+  - 点击菜单
 - background script向content script发送消息
 
 ## 预览
+
 ![WechatIMG2.png][2]
 
 ## 1. contextMenus的设置
 
 ### 1.1 打开权限
+
 contextMenus同其它功能一样，都需要在permissions里指定开启，所以非常简单，在项目的manifest.json文件的permissions中加上contextMenus
 
-    "permissions": [
-        "contextMenus"
-    ]
+```json
+"permissions": [
+    "contextMenus"
+]
+```
 
 这样就可以在background script里使用contextMenus了
 
 ### 1.2 创建右键菜单
 
-> 首先需要明确，创建菜单以及菜单的事件都是由background script操作的，不是content script，不要被菜单在页面上的现象蒙蔽了。所以，在manifest.json里，一定要配置background scripts(这是重点，勾上，要考)
+**首先需要明确，创建菜单以及菜单的事件都是由background script操作的，不是content script，不要被菜单在页面上的现象蒙蔽了。所以，在manifest.json里，一定要配置background scripts(这是重点，勾上，要考)**
 
 在background script里，创建菜单代码：
 
-    chrome.contextMenus.create({
-        type: 'normal',
-        title: 'Menu Demo',
-        id: 'menuDemo',
-        contexts: ['all'],
-        onclick: genericOnClick
-    }, function () {
-        console.log('contextMenus are create.');
-    });
+```javascript
+chrome.contextMenus.create({
+    type: 'normal',
+    title: 'Menu Demo',
+    id: 'menuDemo',
+    contexts: ['all'],
+    onclick: genericOnClick
+}, function () {
+    console.log('contextMenus are create.');
+});
+```
 
 create方法第一个参数是菜单信息对象，具体可以查看：https://developer.chrome.com/extensions/contextMenus
+
+**PS: type为separator时，目前版本并不会生效，菜单会直接变成子集菜单的形式，应该是一个bug，在论坛上2010年时有人提过，现在还存在，不知道是为什么**
+
 这里主要提的是title，id，onclick
-**title** 很显示就是menu的名字
-**id** 当然就是它的ID，点击后要判断点的是谁，就得靠它了，所以名字好好取
-**onclick** 点击事件，跟的就是处理的方法名，如genericOnClick，就是对应的一个function
+
+**title:** 很显示就是menu的名字
+**id:** 当然就是它的ID，点击后要判断点的是谁，就得靠它了，所以名字好好取
+**onclick:** 点击事件，跟的就是处理的方法名，如genericOnClick，就是对应的一个function
 
 ### 1.3 点击菜单
+
 使用create参数的onclick或是监听事件方法都可以对菜单的点击事件进行监听，它们的回调函数都会带两个参数，info和tabs
+
+```javascript
 function genericOnClick(info, tab) {
     // do something.
 }
+```
+
 **info** 是一个字典数据，包含页面及菜单的一些信息，以及在页面上选中的内容文本
 
-    {
-        editable: false
-        frameId: 0
-        menuItemId: "menuDemo"
-        pageUrl: "https://www.colorgamer.com/"
-        selectionText: "colorgamer"
-    }
+```javascript
+{
+    editable: false
+    frameId: 0
+    menuItemId: "menuDemo"
+    pageUrl: "https://www.colorgamer.com/"
+    selectionText: "colorgamer"
+}
+```
 
 信息一目了然
 
-**tabs** 同样是一个字典，包含页面比较具体的一些信息，如tab信息，页面宽度等，具体可以自行查看，因为和本文的关系并不大，所以就不展开了。
+**tab** 同样是一个字典，包含页面比较具体的一些信息，如tab id等信息，页面宽度等，具体可以自行查看，这里我们将用到tab的id。
 
-那么菜单有了，事件也有了，接下来的问题就是，通过contextMenus拿到的信息，执行的操作都是在background script里的，那如果传回content script里呢？因为很多事情还是要在页面上处理，而不是后台处理。
+那么菜单有了，事件也有了，接下来的问题就是，通过contextMenus拿到的信息，执行的操作都是在background script里的，那如何传回content script里呢？因为很多事情还是要在页面上处理，而不是后台处理。
 
 在前面一篇[一起来做chrome扩展《AJAX请求》](/index.php/archives/4/)，我们说过content script如果向background script发送消息，其实倒过来也是成立的，只是有一点（重点，要考）
 
-> 每个extension的后台都只有一个，而tabs有无数个，所以，每个tabs向background script发送消息不需要指定什么就能送达，而倒过来后，background script要向哪个tab发送消息呢？
+**每个extension的后台都只有一个，而tab有无数个，所以，每个tab向background script发送消息不需要指定什么就能送达，而倒过来后，background script要向哪个tab发送消息呢？**
 
 很明显，我们要告诉它，它才会知道，所以这里分两步
+
 1. 获取当前活动中的tab，因为活动中的就是你看的
 2. 向这个tab发送消息
 
-
-    // 获取活动中的tab
-    chrome.tabs.query({active: true, currentWindow: true}, function(tabs){
-        // 向该tab发送消息
-        chrome.tabs.sendMessage(tabs[0].id, {'contextMenuId': info.menuItemId, 'info': info}, function(response) {});
-    });
+```javascript
+// 向该tab发送消息
+chrome.tabs.sendMessage(tab.id, {'contextMenuId': info.menuItemId, 'info': info}, function(response) {});
+```
 
 发送消息，之前我们使用的是chrome.extension.sendMessage，这里使用chrome.tabs.sendMessage，很明显，是向指定的tab发送，sendMessage方法有三个参数
+
 - 第一个参数是tab的ID
 - 第二个参数是发送的数据对象
 - 第三个就是回调函数了，有什么要传回来的，都是通过它进行
 
 content script接收消息和之前一样
 
-    chrome.extension.onMessage.addListener(function(request, _, response) {
-        console.log(request);
-    });
+```javascript
+chrome.extension.onMessage.addListener(function(request, _, response) {
+    console.log(request);
+});
+```
 
 request即是sendMessage的第二个参数的数据对象，response当然就是回调函数了。
 
@@ -96,6 +122,5 @@ request即是sendMessage的第二个参数的数据对象，response当然就是
 
 谢谢您的阅读，有任何问题都可以联系我。
 
-
-  [1]: http://www.colorgamer.com/usr/uploads/2018/10/866366993.jpg
-  [2]: http://www.colorgamer.com/usr/uploads/2018/10/3888296187.png
+[1]: http://www.colorgamer.com/usr/uploads/2018/10/2046532557.png
+[2]: http://www.colorgamer.com/usr/uploads/2018/10/3888296187.png
