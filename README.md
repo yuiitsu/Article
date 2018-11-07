@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[我为什么要写YuiAPI.md(2018-11-8)](https://github.com/yuiitsu/Article/blob/master/Chrome/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%E6%89%A9%E5%B1%95%E3%80%8A%E9%A1%B5%E9%9D%A2%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E3%80%8B.md)
+[我为什么要写YuiAPI.md(2018-11-8)](https://github.com/yuiitsu/Article/blob/master/YuiAPI/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99YuiAPI.md)
 
 ## 目录
 
@@ -57,4 +57,5 @@
 
 * YuiAPI
 
-    [1.我为什么要写YuiAPI.md]()
+    [1.我为什么要写YuiAPI.md](https://github.com/yuiitsu/Article/blob/master/YuiAPI/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99YuiAPI.md)
+
