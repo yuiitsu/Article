@@ -41,3 +41,8 @@ BIGINT UNSIGNED value is out of range in ...
 ```
 
 PS: Centos大多数的YUM源安装的MySQL版本都为5.1，而MariaDB版本都在5.5.5以上，所以安装MariaDB是一个优选。
+
+### 参考：
+
+1.https://dev.mysql.com/doc/refman/5.7/en/numeric-type-attributes.html
+
