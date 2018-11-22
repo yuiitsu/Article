@@ -22,6 +22,8 @@ CREATE `tbl_name` (
 
 注意：主键AUTO-INCREMENT INT时，从0开始自增，默认使用SIGNED，负值永远不会用到，但正整数长度确少了一半。所以，指定为UNSINGED是比较好的方法。
 
+> In MySQL 5.7, negative values for `AUTO_INCREMENT` columns are not supported.
+
 ## 性能问题
 
 严格来讲，UNSINGED比SINGED稍好。如果一个字段只存正整数，但使用的是SINGED，那么，在做这样查询的时候：
