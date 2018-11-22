@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[我为什么要写YuiAPI.md(2018-11-8)](https://github.com/yuiitsu/Article/blob/master/YuiAPI/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99YuiAPI.md)
+[MySQL INT UNSINGED和SINGED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSINGED%E5%92%8CSINGED%E7%B1%BB%E5%9E%8B.md)
 
 ## 目录
 
@@ -28,6 +28,10 @@
     [2.一起来做webgame，《Javascript贪食蛇》.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%B4%AA%E9%A3%9F%E8%9B%87%E3%80%8B.md)
 
     [3.高亮格式化xml.md](https://github.com/yuiitsu/Article/blob/master/Javascript/%E9%AB%98%E4%BA%AE%E6%A0%BC%E5%BC%8F%E5%8C%96xml.md)
+
+* MySQL
+
+    [1.MySQL INT UNSINGED和SINGED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSINGED%E5%92%8CSINGED%E7%B1%BB%E5%9E%8B.md)
 
 * NodeJs
 
