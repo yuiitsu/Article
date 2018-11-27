@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[MySQL INT UNSINGED和SINGED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSINGED%E5%92%8CSINGED%E7%B1%BB%E5%9E%8B.md)
+[MySQL INT UNSIGNED和SIGNED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSIGNED%E5%92%8CSIGNED%E7%B1%BB%E5%9E%8B.md)
 
 ## 目录
 
@@ -31,7 +31,7 @@
 
 * MySQL
 
-    [1.MySQL INT UNSINGED和SINGED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSINGED%E5%92%8CSINGED%E7%B1%BB%E5%9E%8B.md)
+    [1.MySQL INT UNSIGNED和SIGNED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSIGNED%E5%92%8CSIGNED%E7%B1%BB%E5%9E%8B.md)
 
 * NodeJs
 
