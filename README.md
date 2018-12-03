@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[MySQL INT UNSIGNED和SIGNED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSIGNED%E5%92%8CSIGNED%E7%B1%BB%E5%9E%8B.md)
+[喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead:%20Redemption%E2%85%A1.md)
 
 ## 目录
 
@@ -50,6 +50,10 @@
     [5.聊一聊电商的营销系统插件化.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E8%81%8A%E4%B8%80%E8%81%8A%E7%94%B5%E5%95%86%E7%9A%84%E8%90%A5%E9%94%80%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6%E5%8C%96.md)
 
     [6.Sublime Text 3安装完美的Vim支持，ActualVim/NeoVim.md](https://github.com/yuiitsu/Article/blob/master/Other/SublimeText3%E5%AE%89%E8%A3%85%E5%AE%8C%E7%BE%8E%E7%9A%84Vim%E6%94%AF%E6%8C%81ActualVim%2CNeoVim.md)
+
+* PenYouXi
+
+    [1.喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead:%20Redemption%E2%85%A1.md)
 
 * PHP
 
