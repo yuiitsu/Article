@@ -35,7 +35,7 @@
 ## 翻译版本
 
 - [Chinese version](http://www.litpo.com/category/%E6%98%93%E5%AD%A6%E7%9A%84%E6%95%99%E7%A8%8B/) by Zhang Qianying from LITPO
-- [Chiness version](https://www.colorgamer.com) by onlyfu
+- [Chiness version](https://github.com/yuiitsu/Article/tree/master/Unity-Tutorials/2d-game-unity) by onlyfu
 
 ## 许可
 
