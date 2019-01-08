@@ -65,7 +65,7 @@
 
 * Unity
 
-    + 2D game tutorials
+    + 2D game tutorials（翻译）
 
       [1.Overview.md](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/Overview.md)
 
