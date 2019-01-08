@@ -1,6 +1,6 @@
 # Greating a 2D game with Unity
 
-> 本文翻译至pixelnest.io的Unity教程：https://pixelnest.io/tutorials/2d-game-unity/
+> 本教程翻译至pixelnest.io的Unity教程：https://pixelnest.io/tutorials/2d-game-unity/
 
 
 
