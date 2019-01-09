@@ -2,6 +2,8 @@
 
 本教程翻译至pixelnest.io的Unity教程：https://pixelnest.io/tutorials/2d-game-unity/
 
+> 译者注：原教程在Unity 5下编写，我在Unity 2018.3里测试通过。译者英文并不好，如果有错误，欢迎指正。
+
 ## 章节
 
 - [安装Unity，创建第一个场景](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/03.Install%20Unity%20and%20create%20your%20first%20scene.md)
