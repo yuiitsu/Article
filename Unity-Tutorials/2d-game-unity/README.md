@@ -13,7 +13,7 @@
 - 射击（2/2）
 - [视差滚动](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/08.Parallax%20scrolling.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [使用粒子](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/09.Playing%20with%20particles.md) (by [Yuiitsu](https://github.com/yuiitsu))
-- Making some noises on music
+- 搞点响儿
 - Menus - loading and restartig the game
 - Build, release and deploy
 - Conclusion
