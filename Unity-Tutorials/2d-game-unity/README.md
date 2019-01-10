@@ -2,7 +2,7 @@
 
 本教程翻译至pixelnest.io的Unity教程：https://pixelnest.io/tutorials/2d-game-unity/
 
-> 译者注：原教程在Unity 5下编写，我在Unity 2018.3里测试通过。我的英文并不好，如果有错误，欢迎指正。
+> 译者注：原教程在Unity 5下编写，我在Unity 2018.3里测试通过，并将Unity 2018.3改变的地方修正进了教程里。我的英文并不好，如果有错误，欢迎指正。
 
 ## 章节
 
