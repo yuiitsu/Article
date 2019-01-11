@@ -10,7 +10,7 @@
 - 添加/显示背景 (by [邱昊](https://github.com/qwer951123))
 - 创建角色和它的敌人
 - 射击(1/2)
-- 射击(2/2)
+- [射击(2/2)](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/07.shooting2.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [视差滚动](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/08.Parallax%20scrolling.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [使用粒子](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/09.Playing%20with%20particles.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [加入声音](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/10.Making%20some%20noises%20on%20music.md) (by [Yuiitsu](https://github.com/yuiitsu))
