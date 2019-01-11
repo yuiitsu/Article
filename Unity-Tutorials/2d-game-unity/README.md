@@ -15,8 +15,8 @@
 - [使用粒子](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/09.Playing%20with%20particles.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [加入声音](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/10.Making%20some%20noises%20on%20music.md) (by [Yuiitsu](https://github.com/yuiitsu))
 - [菜单-加载画面和重新开始](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/11.Menus%20-%20loading%20and%20restartig%20the%20game.md) (by [Yuiitsu](https://github.com/yuiitsu))
-- 编译，发布和部署
-- 结论
+- [编译，发布和部署](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/12.Build%2C%20release%20and%20deploy.md) (by [Yuiitsu](https://github.com/yuiitsu))
+- [结论](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/13.Conclusion.md) (by [Yuiitsu](https://github.com/yuiitsu))
 
 ## 进阶章节
 
