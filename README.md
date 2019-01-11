@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead:%20Redemption%E2%85%A1.md)
+[2D game tutorials（翻译）](https://github.com/yuiitsu/Article/tree/master/Unity-Tutorials/2d-game-unity)
 
 ## 目录
 
@@ -65,9 +65,7 @@
 
 * Unity
 
-    + 2D game tutorials（翻译）
-
-      [1.Overview.md](https://github.com/yuiitsu/Article/blob/master/Unity-Tutorials/2d-game-unity/Overview.md)
+    + [2D game tutorials（翻译）](https://github.com/yuiitsu/Article/tree/master/Unity-Tutorials/2d-game-unity)
 
 * YuiAPI
 
