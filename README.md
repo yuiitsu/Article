@@ -53,7 +53,7 @@
 
 * PenYouXi
 
-    [1.喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead:%20Redemption%E2%85%A1.md)
+    [1.喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead-Redemption%20II.md)
 
 * PHP
 
