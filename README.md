@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/tree/master/Unity-Tutorials/2d-game-unity)
+[一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/06.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E3%80%8B.md)
 
 ## 目录
 
