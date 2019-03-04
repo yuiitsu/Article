@@ -22,14 +22,15 @@
    5. Module
    6. Component
 2. Web Server
-   1. Server Framework
+   1. Project Structure
+   2. Server Framework
       1. Router
       2. Controller
       3. Service
       4. Model
          1. MySQL
          2. Redis
-   2. Async Message server
+   3. Async Message server
 3. Business
    1. User
    2. Shop
