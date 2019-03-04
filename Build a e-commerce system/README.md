@@ -38,3 +38,4 @@
    4. Goods
    5. Order
    6. Payment
+   7. Promotion
