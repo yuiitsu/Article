@@ -15,7 +15,6 @@
       3. Loop
       4. Import template
 3. Router
-   1. pushstate, popstate
 4. Model
    1. Data-Bind
 5. Module
