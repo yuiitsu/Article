@@ -7,10 +7,10 @@
    2. Node Server
       1. Web Server
       2. Builder
-      3. Develop support
-         1. Build View script
+      3. Develop Support
+         1. Build view script
          2. Display script and style
-      4. Template parse
+      4. Template Parse
          1. Varchar 
          2. Condition
          3. Loop
