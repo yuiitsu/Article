@@ -1,6 +1,6 @@
 # Build a e-commerce system
 
-本系列将从最基本的开始，讲解一个完整基础电商系统的构建，它将包括：
+本系列将从最基本的开始，讲解构建一个完整的基础电商系统，它将包括：
 
 1. Front-End Framework
    1. Project Structure
