@@ -7,14 +7,14 @@
    2. Node Server
       1. Web Server
       2. Builder
-      3. Develop Support
-         1. Build view script
-         2. Display script and style
-      4. Template Parse
+      3. Template Parse
          1. Varchar 
          2. Condition
          3. Loop
          4. Import template
+      4. Develop Support
+         1. Build view script
+         2. Display script and style
    3. Router
       1. pushstate, popstate
    4. Model
