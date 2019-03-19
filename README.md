@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[浅谈网页阅读模式的内容提取](https://github.com/yuiitsu/Article/blob/master/Javascript/2019031901.%E6%B5%85%E8%B0%88%E7%BD%91%E9%A1%B5%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%86%85%E5%AE%B9%E6%8F%90%E5%8F%96.md)
+[一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/06.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E3%80%8B.md)
 
 ## 目录
 
@@ -30,8 +30,6 @@
     [2.一起来做webgame，《Javascript贪食蛇》.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%B4%AA%E9%A3%9F%E8%9B%87%E3%80%8B.md)
 
     [3.高亮格式化xml.md](https://github.com/yuiitsu/Article/blob/master/Javascript/%E9%AB%98%E4%BA%AE%E6%A0%BC%E5%BC%8F%E5%8C%96xml.md)
-
-    [4.浅谈网页阅读模式的内容提取](https://github.com/yuiitsu/Article/blob/master/Javascript/2019031901.%E6%B5%85%E8%B0%88%E7%BD%91%E9%A1%B5%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%86%85%E5%AE%B9%E6%8F%90%E5%8F%96.md)
 
 * MySQL
 
