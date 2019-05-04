@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/06.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E3%80%8B.md)
+[喷游戏之只狼](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8B%E5%8F%AA%E7%8B%BC.md)
 
 ## 目录
 
@@ -56,6 +56,8 @@
 * PenYouXi
 
     [1.喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead-Redemption%20II.md)
+
+    [2.喷游戏之只狼](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8B%E5%8F%AA%E7%8B%BC.md)
 
 * PHP
 
