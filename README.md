@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[喷游戏之只狼](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8B%E5%8F%AA%E7%8B%BC.md)
+[喷游戏之Battle Chasers: Nightwar](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏之Battle Chasers: Nightwar.md)
 
 ## 目录
 
@@ -58,6 +58,8 @@
     [1.喷游戏之Red Dead: RedemptionⅡ.md](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BRed%20Dead-Redemption%20II.md)
 
     [2.喷游戏之只狼](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8B%E5%8F%AA%E7%8B%BC.md)
+
+    [3.喷游戏之Battle Chasers: Nightwar](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏之Battle Chasers: Nightwar.md)
 
 * PHP
 
