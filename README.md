@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[喷游戏之Battle Chasers: Nightwar](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BBattle%20Chasers:%20Nightwar.md)
+[NodeJs做Ajax上传文件转发](https://github.com/yuiitsu/Article/blob/master/NodeJs/NodeJs做Ajax上传文件转发.md)
 
 ## 目录
 
@@ -31,6 +31,8 @@
 
     [3.高亮格式化xml.md](https://github.com/yuiitsu/Article/blob/master/Javascript/%E9%AB%98%E4%BA%AE%E6%A0%BC%E5%BC%8F%E5%8C%96xml.md)
 
+    [4.浅谈网页阅读模式的内容提取](https://github.com/yuiitsu/Article/blob/master/Javascript/2019031901.浅谈网页阅读模式的内容提取.md)
+
 * MySQL
 
     [1.MySQL INT UNSIGNED和SIGNED类型.md](https://github.com/yuiitsu/Article/blob/master/MySQL/MySQL%20INT%20UNSIGNED%E5%92%8CSIGNED%E7%B1%BB%E5%9E%8B.md)
@@ -38,6 +40,8 @@
 * NodeJs
 
     [1.NodeJs并发异步的回调处理.md](https://github.com/yuiitsu/Blog/blob/master/NodeJs/NodeJs%E5%B9%B6%E5%8F%91%E5%BC%82%E6%AD%A5%E7%9A%84%E5%9B%9E%E8%B0%83%E5%A4%84%E7%90%86.md)
+
+    [2.NodeJs做Ajax上传文件转发](https://github.com/yuiitsu/Article/blob/master/NodeJs/NodeJs做Ajax上传文件转发.md)
 
 * Other
 
