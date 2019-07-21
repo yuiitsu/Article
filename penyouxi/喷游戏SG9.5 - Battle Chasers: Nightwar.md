@@ -1,6 +1,8 @@
-# 喷游戏之Battle Chasers: Nightwar
+# 喷游戏SG9.5 - Battle Chasers: Nightwar
 
 ![](https://www.colorgamer.com/usr/uploads/2019/06/61849277.jpg)
+
+**SG**：`9.5`
 
 > **老游戏，但喷游戏秉承玩什么喷什么习俗，早喷也是喷，晚喷也是喷，区别不大。**
 

@@ -1,4 +1,4 @@
-# 喷游戏之Red Dead: Redemption II
+# 喷游戏SG1.0 - Red Dead: Redemption II
 
 ![](https://www.colorgamer.com/usr/uploads/2018/12/2189513649.jpg)
 

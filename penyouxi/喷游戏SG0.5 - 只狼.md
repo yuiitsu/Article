@@ -1,4 +1,4 @@
-# 喷游戏之只狼
+# 喷游戏SG0.5 - 只狼
 
 ![](https://www.colorgamer.com/usr/uploads/2019/04/39576482.jpg)
 
