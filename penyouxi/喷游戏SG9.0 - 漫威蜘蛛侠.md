@@ -2,6 +2,8 @@
 
 ![](https://www.colorgamer.com/usr/uploads/2019/07/1782787085.jpg)
 
+**SG**: **`9.0`**
+
 大纲：
 
 + 任务过度重复
@@ -9,4 +11,3 @@
 + 剧情等于没有
 + 操控其他角色意义何在
 
-SG(Shit Grade): 9
