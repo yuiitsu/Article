@@ -53,15 +53,13 @@
 
     [2.Vim，极简使用教程，让你瞬间脱离键鼠切换的痛苦.md](https://github.com/yuiitsu/Blog/blob/master/Other/Vim%EF%BC%8C%E6%9E%81%E7%AE%80%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%8C%E8%AE%A9%E4%BD%A0%E7%9E%AC%E9%97%B4%E8%84%B1%E7%A6%BB%E9%94%AE%E9%BC%A0%E5%88%87%E6%8D%A2%E7%9A%84%E7%97%9B%E8%8B%A6.md)
 
-    [3.一些前端题目.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E4%B8%80%E4%BA%9B%E5%89%8D%E7%AB%AF%E9%A2%98%E7%9B%AE.md)
+    [3.双服务器，CentOS系统，使用Squid和Stunnel搭建翻墙代理服务.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E5%8F%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8CCentOS%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BD%BF%E7%94%A8Squid%E5%92%8CStunnel%E6%90%AD%E5%BB%BA%E7%BF%BB%E5%A2%99%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1.md)
 
-    [4.双服务器，CentOS系统，使用Squid和Stunnel搭建翻墙代理服务.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E5%8F%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8CCentOS%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BD%BF%E7%94%A8Squid%E5%92%8CStunnel%E6%90%AD%E5%BB%BA%E7%BF%BB%E5%A2%99%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1.md)
+    [4.聊一聊电商的营销系统插件化.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E8%81%8A%E4%B8%80%E8%81%8A%E7%94%B5%E5%95%86%E7%9A%84%E8%90%A5%E9%94%80%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6%E5%8C%96.md)
 
-    [5.聊一聊电商的营销系统插件化.md](https://github.com/yuiitsu/Blog/blob/master/Other/%E8%81%8A%E4%B8%80%E8%81%8A%E7%94%B5%E5%95%86%E7%9A%84%E8%90%A5%E9%94%80%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6%E5%8C%96.md)
+    [5.Sublime Text 3安装完美的Vim支持，ActualVim/NeoVim.md](https://github.com/yuiitsu/Article/blob/master/Other/SublimeText3%E5%AE%89%E8%A3%85%E5%AE%8C%E7%BE%8E%E7%9A%84Vim%E6%94%AF%E6%8C%81ActualVim%2CNeoVim.md)
 
-    [6.Sublime Text 3安装完美的Vim支持，ActualVim/NeoVim.md](https://github.com/yuiitsu/Article/blob/master/Other/SublimeText3%E5%AE%89%E8%A3%85%E5%AE%8C%E7%BE%8E%E7%9A%84Vim%E6%94%AF%E6%8C%81ActualVim%2CNeoVim.md)
-
-    [7.关于Nginx反向代理时headers无效的问题](https://github.com/yuiitsu/Article/blob/master/Other/关于Nginx反向代理时headers无效的问题.md)
+    [6.关于Nginx反向代理时headers无效的问题](https://github.com/yuiitsu/Article/blob/master/Other/关于Nginx反向代理时headers无效的问题.md)
 
 * PenYouXi
 
