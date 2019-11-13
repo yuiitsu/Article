@@ -3,11 +3,7 @@
 
 ## 最近更新
 
-[喷游戏SG9.3 - 漫威蜘蛛侠](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏SG9.3_漫威蜘蛛侠.md)
-
-[NodeJs做Ajax上传文件转发](https://github.com/yuiitsu/Article/blob/master/NodeJs/NodeJs做Ajax上传文件转发.md)
-
-[关于Nginx反向代理时headers无效的问题](https://github.com/yuiitsu/Article/blob/master/Other/关于Nginx反向代理时headers无效的问题.md)
+[喷游戏SG3.8 - 二之国 白色圣灰的女王](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏SG3.8_二之国_白色圣灰的女王.md)
 
 ## 目录
 
@@ -70,6 +66,8 @@
     [3.喷游戏SG9.5 - Battle Chasers: Nightwar](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8F%E4%B9%8BBattle%20Chasers:%20Nightwar.md)
 
     [4.喷游戏SG9.3 - 漫威蜘蛛侠](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏SG9.3_漫威蜘蛛侠.md)
+
+    [5.喷游戏SG3.8 - 二之国 白色圣灰的女王](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏SG3.8_二之国_白色圣灰的女王.md)
 
 * PHP
 
