@@ -84,4 +84,8 @@
 * YuiAPI
 
     [1.我为什么要写YuiAPI.md](https://github.com/yuiitsu/Article/blob/master/YuiAPI/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99YuiAPI.md)
+    
+* Translation
+
+    [1.回归手写:对你的大脑更好]([https://github.com/yuiitsu/Article/blob/master/Translation/%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md](https://github.com/yuiitsu/Article/blob/master/Translation/回归手写-对你的大脑更好.md))
 
