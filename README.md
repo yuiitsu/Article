@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[喷游戏SG2.8 - 二之国 白色圣灰的女王](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8FSG2.8_%E4%BA%8C%E4%B9%8B%E5%9B%BD_%E7%99%BD%E8%89%B2%E5%9C%A3%E7%81%B0%E7%9A%84%E5%A5%B3%E7%8E%8B.md)
+[回归手写:对你的大脑更好](https://github.com/yuiitsu/Article/blob/master/Translation/%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md)
 
 ## 目录
 
@@ -87,5 +87,5 @@
     
 * Translation
 
-    [1.回归手写:对你的大脑更好]([https://github.com/yuiitsu/Article/blob/master/Translation/%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md](https://github.com/yuiitsu/Article/blob/master/Translation/回归手写-对你的大脑更好.md))
+    [1.回归手写:对你的大脑更好](https://github.com/yuiitsu/Article/blob/master/Translation/%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md)
 
