@@ -5,6 +5,8 @@
 
 [回归手写:对你的大脑更好](https://github.com/yuiitsu/Article/blob/master/Translation/%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md)
 
+[离开校园后的英文学习之旅](https://github.com/yuiitsu/Article/blob/master/Essay/%E7%A6%BB%E5%BC%80%E6%A0%A1%E5%9B%AD%E5%90%8E%E7%9A%84%E8%8B%B1%E6%96%87%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85.md)
+
 ## 目录
 
 * Android
@@ -91,5 +93,5 @@
     
 * Essay
 
-    1.离开校园后的英文学习之旅
+    [1.离开校园后的英文学习之旅](https://github.com/yuiitsu/Article/blob/master/Essay/%E7%A6%BB%E5%BC%80%E6%A0%A1%E5%9B%AD%E5%90%8E%E7%9A%84%E8%8B%B1%E6%96%87%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85.md)
 
