@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[程序员之殇-我的理解](https://github.com/yuiitsu/Article/blob/master/Essay/2020011201.程序员之殇_到底是什么.md)
+[程序员之殇-殇从何来](https://github.com/yuiitsu/Article/blob/master/Essay/2020011201.程序员之殇_到底是什么.md)
 
 ## 目录
 
