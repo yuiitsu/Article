@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[程序员之殇-殇从何来](https://github.com/yuiitsu/Article/blob/master/Essay/2020011201.程序员之殇_到底是什么.md)
+[我不使用To-Do Lists,原因在此](https://github.com/yuiitsu/Article/blob/master/Translation/20011401-我不使用To-Do Lists%3B原因在此.md)
 
 ## 目录
 
@@ -90,6 +90,8 @@
     [1.回归手写:对你的大脑更好](https://github.com/yuiitsu/Article/blob/master/Translation/19122201-%E5%9B%9E%E5%BD%92%E6%89%8B%E5%86%99-%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%9B%B4%E5%A5%BD.md)
     
     [2.每天写作的唯一真实原因](https://github.com/yuiitsu/Article/blob/master/Translation/19122601-%E6%AF%8F%E5%A4%A9%E5%86%99%E6%97%A5%E8%AE%B0%E7%9A%84%E7%9C%9F%E7%9B%B8%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA.md)
+    
+    [3.我不使用To-Do Lists,原因在此](https://github.com/yuiitsu/Article/blob/master/Translation/20011401-我不使用To-Do Lists%3B原因在此.md)
     
 * Essay
 
