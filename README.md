@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[7个生产力技巧，轻松防止分心，集中注意力](https://github.com/yuiitsu/Article/blob/master/Translation/20021301-7个生产力技巧，轻松防止分心，集中注意力.md)
+[Visual Studio Code Python开发调试环境设置](https://github.com/yuiitsu/Article/blob/master/Other/2020021701.Visual-Studio-Code-Python%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE.md)
 
 ## 目录
 
@@ -56,6 +56,8 @@
     [5.Sublime Text 3安装完美的Vim支持，ActualVim/NeoVim.md](https://github.com/yuiitsu/Article/blob/master/Other/SublimeText3%E5%AE%89%E8%A3%85%E5%AE%8C%E7%BE%8E%E7%9A%84Vim%E6%94%AF%E6%8C%81ActualVim%2CNeoVim.md)
 
     [6.关于Nginx反向代理时headers无效的问题](https://github.com/yuiitsu/Article/blob/master/Other/关于Nginx反向代理时headers无效的问题.md)
+
+    [7.Visual Studio Code Python开发调试环境设置](https://github.com/yuiitsu/Article/blob/master/Other/2020021701.Visual-Studio-Code-Python%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE.md)
 
 * PenYouXi
 
