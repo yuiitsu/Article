@@ -6,4 +6,5 @@
 *.iml
 .project
 /.settings
-node_modules/*
+node_modules/
+article.code-workspace
