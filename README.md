@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[Visual Studio Code Python开发调试环境设置](https://github.com/yuiitsu/Article/blob/master/Other/2020021701.Visual-Studio-Code-Python%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE.md)
+[一起来做Chrome/Firefox/Edge Extension《使用eval类方法》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/08.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9AChrome-Firefox-Extension%E3%80%8A%E4%BD%BF%E7%94%A8%E6%A8%A1%E6%9D%BF%E8%A7%A3%E6%9E%90%E3%80%8B.md)
 
 ## 目录
 
@@ -22,6 +22,8 @@
     [4.一起来做Chrome Extension《页面右键菜单》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/04.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E9%A1%B5%E9%9D%A2%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E3%80%8B.md)
 
     [5.一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/06.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E3%80%8B.md)
+
+    [6.一起来做Chrome/Firefox/Edge Extension《使用eval类方法》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/08.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9AChrome-Firefox-Extension%E3%80%8A%E4%BD%BF%E7%94%A8%E6%A8%A1%E6%9D%BF%E8%A7%A3%E6%9E%90%E3%80%8B.md)
 
 * Javascript
 
