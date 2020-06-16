@@ -3,7 +3,7 @@
 
 ## 最近更新
 
-[一起来做Chrome/Firefox/Edge Extension《使用eval类方法》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/08.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9AChrome-Firefox-Extension%E3%80%8A%E4%BD%BF%E7%94%A8eval%E7%B1%BB%E6%96%B9%E6%B3%95%E3%80%8B.md)
+[CentOS Python3使用pip安装pycurl](https://github.com/yuiitsu/Article/blob/master/Python/CentOS-Python3安装pycurl.md)
 
 ## 目录
 
@@ -80,6 +80,8 @@
 * Python
 
     [1.基于fab自动化部署.md](https://github.com/yuiitsu/Blog/blob/master/Python/%E5%9F%BA%E4%BA%8Efab%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.md)
+
+    [2.CentOS Python3使用pip安装pycurl](https://github.com/yuiitsu/Article/blob/master/Python/CentOS-Python3安装pycurl.md)
 
 * Unity
 
