@@ -63,7 +63,7 @@ def sign(sign_str):
   """
 	rsa_key = RSA.importKey(private_key)
 	signer = pkcs1_15.new(rsa_key)
-	digest = SHA256.new(sign_str().encode('utf8'))
+	digest = SHA256.new(sign_str.encode('utf8'))
 	sign = b64encode(signer.sign(digest)).decode('utf8')
   return sign
 
