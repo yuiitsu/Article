@@ -6,7 +6,7 @@
 
 ## 过程
 
-在使用Tornado的AsyncHTTPClient的curl模式时，需要安装pycurl，因为是一套全编辑环境，不太好直接使用easy_install来安装，只能使用pip：
+在使用Tornado的AsyncHTTPClient的curl模式时，需要安装pycurl，因为是一套全编译环境，不太好直接使用easy_install来安装，只能使用pip：
 
 ```
 pip install pycurl
