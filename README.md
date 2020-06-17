@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[Python微信APIv3签名](https://github.com/yuiitsu/Article/blob/master/Python/Python微信APIv3签名.md)
+
 [CentOS Python3使用pip安装pycurl](https://github.com/yuiitsu/Article/blob/master/Python/CentOS-Python3安装pycurl.md)
 
 ## 目录
@@ -82,6 +84,8 @@
     [1.基于fab自动化部署.md](https://github.com/yuiitsu/Blog/blob/master/Python/%E5%9F%BA%E4%BA%8Efab%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.md)
 
     [2.CentOS Python3使用pip安装pycurl](https://github.com/yuiitsu/Article/blob/master/Python/CentOS-Python3安装pycurl.md)
+
+    [3.Python微信APIv3签名](https://github.com/yuiitsu/Article/blob/master/Python/Python微信APIv3签名.md)
 
 * Unity
 
