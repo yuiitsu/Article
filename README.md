@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[最后生还者2-喷游戏SG5](https://github.com/yuiitsu/Article/blob/master/penyouxi/最后生还者2-喷游戏SG5.md)
+
 [Python微信APIv3签名](https://github.com/yuiitsu/Article/blob/master/Python/Python微信APIv3签名.md)
 
 [CentOS Python3使用pip安装pycurl](https://github.com/yuiitsu/Article/blob/master/Python/CentOS-Python3安装pycurl.md)
@@ -74,6 +76,8 @@
     [4.喷游戏SG9.3 - 漫威蜘蛛侠](https://github.com/yuiitsu/Article/blob/master/penyouxi/喷游戏SG9.3_漫威蜘蛛侠.md)
 
     [5.喷游戏SG2.8 - 二之国 白色圣灰的女王](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%96%B7%E6%B8%B8%E6%88%8FSG2.8_%E4%BA%8C%E4%B9%8B%E5%9B%BD_%E7%99%BD%E8%89%B2%E5%9C%A3%E7%81%B0%E7%9A%84%E5%A5%B3%E7%8E%8B.md)
+
+    [6.最后生还者2-喷游戏SG5](https://github.com/yuiitsu/Article/blob/master/penyouxi/最后生还者2-喷游戏SG5.md)
 
 * PHP
 
