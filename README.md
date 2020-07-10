@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[一起来做浏览器扩展-实战-翻译扩展](https://github.com/yuiitsu/Article/blob/master/Chrome/09.一起来做浏览器扩展-实战-翻译扩展.md)
+
 [小学第一年，聊聊这一年的感受](https://github.com/yuiitsu/Article/blob/master/Essay/2020070501小学第一年%2C聊聊这一年的感受.md)
 
 [最后生还者2-喷游戏SG5](https://github.com/yuiitsu/Article/blob/master/penyouxi/最后生还者2-喷游戏SG5.md)
@@ -30,6 +32,8 @@
     [5.一起来做Chrome Extension《一些问题》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/06.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Achrome%20Extension%E3%80%8A%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E3%80%8B.md)
 
     [6.一起来做Chrome/Firefox/Edge Extension《使用eval类方法》.md](https://github.com/yuiitsu/Article/blob/master/Chrome/08.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9AChrome-Firefox-Extension%E3%80%8A%E4%BD%BF%E7%94%A8eval%E7%B1%BB%E6%96%B9%E6%B3%95%E3%80%8B.md)
+
+    [7.一起来做浏览器扩展-实战-翻译扩展](https://github.com/yuiitsu/Article/blob/master/Chrome/09.一起来做浏览器扩展-实战-翻译扩展.md)
 
 * Javascript
 
