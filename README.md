@@ -5,7 +5,7 @@
 
 [Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
 
-[Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tur.md)
+[Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tutorial.md)
 
 [一起来做浏览器扩展-实战-翻译扩展](https://github.com/yuiitsu/Article/blob/master/Chrome/09.一起来做浏览器扩展-实战-翻译扩展.md)
 
@@ -125,7 +125,7 @@
     
 * Pixel Art
 
-    [1. Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tur.md)
+    [1. Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tuturial.md)
 
     [2.Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
 
