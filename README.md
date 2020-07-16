@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
+
 [Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tur.md)
 
 [一起来做浏览器扩展-实战-翻译扩展](https://github.com/yuiitsu/Article/blob/master/Chrome/09.一起来做浏览器扩展-实战-翻译扩展.md)
@@ -10,8 +12,6 @@
 [小学第一年，聊聊这一年的感受](https://github.com/yuiitsu/Article/blob/master/Essay/2020070501小学第一年%2C聊聊这一年的感受.md)
 
 [最后生还者2-喷游戏SG5](https://github.com/yuiitsu/Article/blob/master/penyouxi/最后生还者2-喷游戏SG5.md)
-
-[Python微信APIv3签名](https://github.com/yuiitsu/Article/blob/master/Python/Python微信APIv3签名.md)
 
 ## 目录
 
@@ -126,4 +126,6 @@
 * Pixel Art
 
     [1. Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tur.md)
+
+    [2.Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
 
