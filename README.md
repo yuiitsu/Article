@@ -3,13 +3,13 @@
 
 ## 最近更新
 
+[如何开始制作像素画 #2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020081801.HowToStartMakingPixelArt02.md)
+
 [很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5](https://github.com/yuiitsu/Article/blob/master/penyouxi/很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5.md)
 
 [如何开始制作像素画 #1](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020072401.HowToStartMakingPixelArt01.md)
 
 [Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
-
-[Pixel Art Outlines Tutorial 像素画轮廓教程](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071401.Pixel-Art-Outlines-Tutorial.md)
 
 
 
@@ -132,4 +132,6 @@
     [2.Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
     
     [3.如何开始制作像素画 #1](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020072401.HowToStartMakingPixelArt01.md)
+    
+    [4.如何开始制作像素画 #2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020081801.HowToStartMakingPixelArt02.md)
 
