@@ -3,13 +3,15 @@
 
 ## 最近更新
 
+[如何制作2D RPG游戏 - Part 1- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082601.BuildA2DRPGInGodotPart1.md)
+
+[近战攻击 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082001.MeleeAttackGodotTutorial.md)
+
+[如何使用Godot制作你的第一款游戏](https://github.com/yuiitsu/Article/blob/master/Godot/2020081902.HowToMakeYourFirstGameWithGodot.md)
+
 [如何开始制作像素画 #2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020081801.HowToStartMakingPixelArt02.md)
 
 [很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5](https://github.com/yuiitsu/Article/blob/master/penyouxi/很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5.md)
-
-[如何开始制作像素画 #1](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020072401.HowToStartMakingPixelArt01.md)
-
-[Pixel Art Outlines Tutorial 像素画轮廓教程 Part 2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020071402.Pixel-Art-Outlines-Tutorial-Part2.md)
 
 
 
@@ -102,6 +104,12 @@
 * Unity
 
     + [2D game tutorials（翻译）](https://github.com/yuiitsu/Article/tree/master/Unity-Tutorials/2d-game-unity)
+
+* Godot
+
+    * [1.如何使用Godot制作你的第一款游戏](https://github.com/yuiitsu/Article/blob/master/Godot/2020081902.HowToMakeYourFirstGameWithGodot.md)
+    * [2.近战攻击 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082001.MeleeAttackGodotTutorial.md)
+    * [3.如何制作2D RPG游戏 - Part 1- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082601.BuildA2DRPGInGodotPart1.md)
 
 * YuiAPI
 
