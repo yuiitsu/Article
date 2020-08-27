@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[为什么要使用Vector2().normalized() - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082701.WhyUseVector2.normalizedGodot3Tutorial.md)
+
 [如何制作2D RPG游戏 - Part 1- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082601.BuildA2DRPGInGodotPart1.md)
 
 [近战攻击 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082001.MeleeAttackGodotTutorial.md)
@@ -10,8 +12,6 @@
 [如何使用Godot制作你的第一款游戏](https://github.com/yuiitsu/Article/blob/master/Godot/2020081902.HowToMakeYourFirstGameWithGodot.md)
 
 [如何开始制作像素画 #2](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020081801.HowToStartMakingPixelArt02.md)
-
-[很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5](https://github.com/yuiitsu/Article/blob/master/penyouxi/很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5.md)
 
 
 
@@ -110,6 +110,7 @@
     * [1.如何使用Godot制作你的第一款游戏](https://github.com/yuiitsu/Article/blob/master/Godot/2020081902.HowToMakeYourFirstGameWithGodot.md)
     * [2.近战攻击 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082001.MeleeAttackGodotTutorial.md)
     * [3.如何制作2D RPG游戏 - Part 1- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082601.BuildA2DRPGInGodotPart1.md)
+    * [4.为什么要使用Vector2().normalized() - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082701.WhyUseVector2.normalizedGodot3Tutorial.md)
 
 * YuiAPI
 
