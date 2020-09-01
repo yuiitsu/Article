@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[如何制作策略游戏 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020090101.HowToMakeaStrategyGameinGodotPart2.md)
+
 [贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
 
 [贪食蛇 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083001.SnakeGodot3Tutorial.md)
@@ -10,8 +12,6 @@
 [如何制作策略游戏 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082801.HowToMakeaStrategyGameinGodotPart1.md)
 
 [如何制作2D RPG游戏 - Part 2- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082702.BuildA2DRPGInGodotPart2.md)
-
-[为什么要使用Vector2().normalized() - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082701.WhyUseVector2.normalizedGodot3Tutorial.md)
 
 
 
@@ -110,11 +110,12 @@
     * [1.如何使用Godot制作你的第一款游戏](https://github.com/yuiitsu/Article/blob/master/Godot/2020081902.HowToMakeYourFirstGameWithGodot.md)
     * [2.近战攻击 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082001.MeleeAttackGodotTutorial.md)
     * [3.如何制作2D RPG游戏 - Part 1- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082601.BuildA2DRPGInGodotPart1.md)
-    * [4.为什么要使用Vector2().normalized() - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082701.WhyUseVector2.normalizedGodot3Tutorial.md)
-    * [5.如何制作2D RPG游戏 - Part 2- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082702.BuildA2DRPGInGodotPart2.md)
+    * [4.如何制作2D RPG游戏 - Part 2- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082702.BuildA2DRPGInGodotPart2.md)
+    * [5.为什么要使用Vector2().normalized() - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082701.WhyUseVector2.normalizedGodot3Tutorial.md)
     * [6.如何制作策略游戏 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082801.HowToMakeaStrategyGameinGodotPart1.md)
-    * [7.贪食蛇 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083001.SnakeGodot3Tutorial.md)
-    * [8.贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
+    * [7.如何制作策略游戏 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020090101.HowToMakeaStrategyGameinGodotPart2.md)
+    * [8.贪食蛇 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083001.SnakeGodot3Tutorial.md)
+    * [9.贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
 
 * YuiAPI
 
