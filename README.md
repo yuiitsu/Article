@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[在PS和XBOX即将进入次世代的时候，聊聊我的Switch](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%9C%A8PS%E5%92%8CXBOX%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84Switch.md)
+
 [如何制作策略游戏 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020090101.HowToMakeaStrategyGameinGodotPart2.md)
 
 [贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
@@ -10,8 +12,6 @@
 [贪食蛇 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083001.SnakeGodot3Tutorial.md)
 
 [如何制作策略游戏 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082801.HowToMakeaStrategyGameinGodotPart1.md)
-
-[如何制作2D RPG游戏 - Part 2- Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020082702.BuildA2DRPGInGodotPart2.md)
 
 
 
@@ -88,6 +88,8 @@
     [6.最后生还者2-喷游戏SG5](https://github.com/yuiitsu/Article/blob/master/penyouxi/最后生还者2-喷游戏SG5.md)
 
     [7.很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5](https://github.com/yuiitsu/Article/blob/master/penyouxi/很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5.md)
+
+    [8.在PS和XBOX即将进入次世代的时候，聊聊我的Switch](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%9C%A8PS%E5%92%8CXBOX%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84Switch.md)
 
 * PHP
 
