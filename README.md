@@ -3,15 +3,15 @@
 
 ## 最近更新
 
+[如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+[关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+[摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
 [如何开始像素画 #4 - 阴影基础](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020103001HowToStartMakingPixelArt%234.md)
 
 [如何开始像素画 #3 - 基本Aseprite动画](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020102901.HowToStartMakingPixelArt%233.md)
-
-[在PS和XBOX即将进入次世代的时候，聊聊我的Switch](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%9C%A8PS%E5%92%8CXBOX%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84Switch.md)
-
-[如何制作策略游戏 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020090101.HowToMakeaStrategyGameinGodotPart2.md)
-
-[贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
 
 
 
@@ -118,6 +118,9 @@
     * [7.如何制作策略游戏 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020090101.HowToMakeaStrategyGameinGodotPart2.md)
     * [8.贪食蛇 - Part 1 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083001.SnakeGodot3Tutorial.md)
     * [9.贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
+    * [10.摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    * [11.关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    * [12.如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 * YuiAPI
 
