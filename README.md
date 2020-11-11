@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
+
 [如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
@@ -10,8 +12,6 @@
 [摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [如何开始像素画 #4 - 阴影基础](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020103001HowToStartMakingPixelArt%234.md)
-
-[如何开始像素画 #3 - 基本Aseprite动画](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020102901.HowToStartMakingPixelArt%233.md)
 
 
 
@@ -121,6 +121,7 @@
     * [10.摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
     * [11.关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
     * [12.如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    * [13.如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
 
 * YuiAPI
 
