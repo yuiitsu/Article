@@ -3,17 +3,15 @@
 
 ## 最近更新
 
+[冲刺/闪现与拖影 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020112401.%E5%86%B2%E5%88%BA%E9%97%AA%E7%8E%B0%E4%B8%8E%E6%8B%96%E5%BD%B1-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+[新人尝试Wacom One DCT-133](https://github.com/yuiitsu/Article/blob/master/Other/2020112402.%E6%96%B0%E4%BA%BA%E5%B0%9D%E8%AF%95WacomOneDCT-133.md)
+
 [如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
 
 [如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[如何开始像素画 #4 - 阴影基础](https://github.com/yuiitsu/Article/blob/master/PixelArt/2020103001HowToStartMakingPixelArt%234.md)
-
-
 
 ## 目录
 
