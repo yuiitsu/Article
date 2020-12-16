@@ -3,15 +3,15 @@
 
 ## 最近更新
 
+[一起来做浏览器扩展-只打开一个标签页](https://github.com/yuiitsu/Article/blob/master/Chrome/10.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9A%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95-%E5%8F%AA%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E6%A0%87%E7%AD%BE%E9%A1%B5.md)
+
+[天穗之咲稻姬 - 些许有些难受的战斗 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%A4%A9%E7%A9%97%E4%B9%8B%E5%92%B2%E7%A8%BB%E5%A7%AC_%E4%BA%9B%E8%AE%B8%E6%9C%89%E4%BA%9B%E9%9A%BE%E5%8F%97%E7%9A%84%E6%88%98%E6%96%97_%E5%96%B7%E6%B8%B8%E6%88%8F.md)
+
 [像素画学习体会-如何练习](https://github.com/yuiitsu/Article/blob/master/PixelArt/20201202.%E5%83%8F%E7%B4%A0%E7%94%BB%E5%AD%A6%E4%B9%A0%E4%BD%93%E4%BC%9A-%E5%A6%82%E4%BD%95%E7%BB%83%E4%B9%A0.md)
 
 [冲刺/闪现与拖影 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020112401.%E5%86%B2%E5%88%BA%E9%97%AA%E7%8E%B0%E4%B8%8E%E6%8B%96%E5%BD%B1-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [新人尝试Wacom One DCT-133](https://github.com/yuiitsu/Article/blob/master/Other/2020112402.%E6%96%B0%E4%BA%BA%E5%B0%9D%E8%AF%95WacomOneDCT-133.md)
-
-[如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
-
-[如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 ## 目录
 
