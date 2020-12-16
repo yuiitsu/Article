@@ -35,6 +35,8 @@
 
     [7.一起来做浏览器扩展-实战-翻译扩展](https://github.com/yuiitsu/Article/blob/master/Chrome/09.一起来做浏览器扩展-实战-翻译扩展.md)
 
+    [8.一起来做浏览器扩展-只打开一个标签页](https://github.com/yuiitsu/Article/blob/master/Chrome/10.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9A%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95-%E5%8F%AA%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E6%A0%87%E7%AD%BE%E9%A1%B5.md)
+
 * Javascript
 
     [1.一起来做webgame，《Javascript蜘蛛纸牌》.md](https://github.com/yuiitsu/Blog/blob/master/Javascript/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9Awebgame%EF%BC%8C%E3%80%8AJavascript%E8%9C%98%E8%9B%9B%E7%BA%B8%E7%89%8C%E3%80%8B.md)
@@ -90,6 +92,8 @@
     [7.很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5](https://github.com/yuiitsu/Article/blob/master/penyouxi/很武士却也蛮无趣--喷游戏之《对马岛之魂》SG4.5.md)
 
     [8.在PS和XBOX即将进入次世代的时候，聊聊我的Switch](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%9C%A8PS%E5%92%8CXBOX%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84Switch.md)
+
+    [9.天穗之咲稻姬 - 些许有些难受的战斗 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%A4%A9%E7%A9%97%E4%B9%8B%E5%92%B2%E7%A8%BB%E5%A7%AC_%E4%BA%9B%E8%AE%B8%E6%9C%89%E4%BA%9B%E9%9A%BE%E5%8F%97%E7%9A%84%E6%88%98%E6%96%97_%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 * PHP
 
