@@ -4,6 +4,9 @@
 ## 最近更新
 
 
+[摄像机：落地时移动镜头-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123002.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E8%90%BD%E5%9C%B0%E6%97%B6%E7%A7%BB%E5%8A%A8%E9%95%9C%E5%A4%B4-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+
 [[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
@@ -12,8 +15,6 @@
 [摄像机教程：全屏的网格移动-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122201.%E6%91%84%E5%83%8F%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A8%E5%B1%8F%E7%9A%84%E7%BD%91%E6%A0%BC%E7%A7%BB%E5%8A%A8-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [一起来做浏览器扩展-只打开一个标签页](https://github.com/yuiitsu/Article/blob/master/Chrome/10.%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%81%9A%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95-%E5%8F%AA%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E6%A0%87%E7%AD%BE%E9%A1%B5.md)
-
-[天穗之咲稻姬 - 些许有些难受的战斗 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/%E5%A4%A9%E7%A9%97%E4%B9%8B%E5%92%B2%E7%A8%BB%E5%A7%AC_%E4%BA%9B%E8%AE%B8%E6%9C%89%E4%BA%9B%E9%9A%BE%E5%8F%97%E7%9A%84%E6%88%98%E6%96%97_%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 ## 目录
 
@@ -150,6 +151,8 @@
     [17.摄像机：基础-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122501.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E5%9F%BA%E7%A1%80-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
     [18.[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+    [19.摄像机：落地时移动镜头-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123002.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E8%90%BD%E5%9C%B0%E6%97%B6%E7%A7%BB%E5%8A%A8%E9%95%9C%E5%A4%B4-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
 * YuiAPI
