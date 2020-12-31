@@ -133,21 +133,23 @@
 
     [9.贪食蛇 - Part 2 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020083101.SnakePart2Godot3Tutorial.md)
 
-    [10.摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [10.如何制作弹幕 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110201.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%BC%B9%E5%B9%95-Godot3%E6%95%99%E7%A8%8B.md)
 
-    [11.关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [11.摇杆支持 - Godot3教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110401.%E6%91%87%E6%9D%86%E6%94%AF%E6%8C%81-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-    [12.如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [12.关于移动方法，move_and_slide，move_and_collide和position的区别 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110501.move_and_slide%2Cmove_and_collide%E5%92%8Cposition-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-    [13.如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
+    [13.如何制作追踪导弹 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020110502.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E8%BF%BD%E8%B8%AA%E5%AF%BC%E5%BC%B9-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-    [14.冲刺/闪现与拖影 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020112401.%E5%86%B2%E5%88%BA%E9%97%AA%E7%8E%B0%E4%B8%8E%E6%8B%96%E5%BD%B1-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [14.如何处理跳跃中长按与点按 - Godot3.2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020111101.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E8%B7%B3%E8%B7%83%E4%B8%AD%E9%95%BF%E6%8C%89%E4%B8%8E%E7%82%B9%E6%8C%89-Godot3.2D%E6%95%99%E7%A8%8B.md)
 
-    [15.摄像机：全屏的网格移动-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122201.%E6%91%84%E5%83%8F%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A8%E5%B1%8F%E7%9A%84%E7%BD%91%E6%A0%BC%E7%A7%BB%E5%8A%A8-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [15.冲刺/闪现与拖影 - Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020112401.%E5%86%B2%E5%88%BA%E9%97%AA%E7%8E%B0%E4%B8%8E%E6%8B%96%E5%BD%B1-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-    [16.摄像机：基础-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122501.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E5%9F%BA%E7%A1%80-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [16.摄像机：全屏的网格移动-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122201.%E6%91%84%E5%83%8F%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A8%E5%B1%8F%E7%9A%84%E7%BD%91%E6%A0%BC%E7%A7%BB%E5%8A%A8-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-    [17.[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
+    [17.摄像机：基础-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122501.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E5%9F%BA%E7%A1%80-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+    [18.[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
 * YuiAPI
