@@ -4,6 +4,8 @@
 ## 最近更新
 
 
+[如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
 [[认识节点]RigidBody2D：更合理的物理碰撞表现-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010502.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E6%9B%B4%E5%90%88%E7%90%86%E7%9A%84%E7%89%A9%E7%90%86%E7%A2%B0%E6%92%9E%E8%A1%A8%E7%8E%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [摄像机BUG：Smoothing下跟随的像素Sprite会抖动问题](https://github.com/yuiitsu/Article/blob/master/Godot/2021010501.%E6%91%84%E5%83%8F%E6%9C%BABUG%EF%BC%9ASmoothing%E4%B8%8B%E8%B7%9F%E9%9A%8F%E7%9A%84%E5%83%8F%E7%B4%A0Sprite%E4%BC%9A%E6%8A%96%E5%8A%A8%E9%97%AE%E9%A2%98.md)
@@ -12,7 +14,6 @@
 
 [[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
-[摄像机：基础-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020122501.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E5%9F%BA%E7%A1%80-Godot3-2D%E6%95%99%E7%A8%8B.md)
 ## 目录
 
 * Android
@@ -154,6 +155,8 @@
     [20.摄像机BUG：Smoothing下跟随的像素Sprite会抖动问题](https://github.com/yuiitsu/Article/blob/master/Godot/2021010501.%E6%91%84%E5%83%8F%E6%9C%BABUG%EF%BC%9ASmoothing%E4%B8%8B%E8%B7%9F%E9%9A%8F%E7%9A%84%E5%83%8F%E7%B4%A0Sprite%E4%BC%9A%E6%8A%96%E5%8A%A8%E9%97%AE%E9%A2%98.md)
 
     [21.[认识节点]RigidBody2D：更合理的物理碰撞表现-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010502.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E6%9B%B4%E5%90%88%E7%90%86%E7%9A%84%E7%89%A9%E7%90%86%E7%A2%B0%E6%92%9E%E8%A1%A8%E7%8E%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+    [22.如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
 * YuiAPI
