@@ -3,6 +3,7 @@
 
 ## 最近更新
 
+[PS5体验-加载时间才是头牌](https://github.com/yuiitsu/Article/blob/master/Other/2021012001.PS5%E4%BD%93%E9%AA%8C-%E5%8A%A0%E8%BD%BD%E6%97%B6%E9%97%B4%E6%89%8D%E6%98%AF%E5%A4%B4%E7%89%8C.md)
 
 [如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
@@ -11,8 +12,6 @@
 [摄像机BUG：Smoothing下跟随的像素Sprite会抖动问题](https://github.com/yuiitsu/Article/blob/master/Godot/2021010501.%E6%91%84%E5%83%8F%E6%9C%BABUG%EF%BC%9ASmoothing%E4%B8%8B%E8%B7%9F%E9%9A%8F%E7%9A%84%E5%83%8F%E7%B4%A0Sprite%E4%BC%9A%E6%8A%96%E5%8A%A8%E9%97%AE%E9%A2%98.md)
 
 [摄像机：落地时移动镜头-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123002.%E6%91%84%E5%83%8F%E6%9C%BA%EF%BC%9A%E8%90%BD%E5%9C%B0%E6%97%B6%E7%A7%BB%E5%8A%A8%E9%95%9C%E5%A4%B4-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[[认识节点]RigidBody2D：坠落的机关-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2020123001.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E5%9D%A0%E8%90%BD%E7%9A%84%E6%9C%BA%E5%85%B3-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 ## 目录
 
@@ -75,6 +74,8 @@
     [7.Visual Studio Code Python开发调试环境设置](https://github.com/yuiitsu/Article/blob/master/Other/2020021701.Visual-Studio-Code-Python%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE.md)
 
     [8.新人尝试Wacom One DCT-133](https://github.com/yuiitsu/Article/blob/master/Other/2020112402.%E6%96%B0%E4%BA%BA%E5%B0%9D%E8%AF%95WacomOneDCT-133.md)
+
+    [9.PS5体验-加载时间才是头牌](https://github.com/yuiitsu/Article/blob/master/Other/2021012001.PS5%E4%BD%93%E9%AA%8C-%E5%8A%A0%E8%BD%BD%E6%97%B6%E9%97%B4%E6%89%8D%E6%98%AF%E5%A4%B4%E7%89%8C.md)
 
 * PenYouXi
 
