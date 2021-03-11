@@ -3,15 +3,15 @@
 
 ## 最近更新
 
+[Navigation2D:寻路-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021031101.Navigation2D:%E5%AF%BB%E8%B7%AF-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+[从魂游戏看BOSS的战斗设计](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021020401.%E4%BB%8E%E9%AD%82%E6%B8%B8%E6%88%8F%E7%9C%8BBOSS%E7%9A%84%E6%88%98%E6%96%97%E8%AE%BE%E8%AE%A1.md)
+
 [恶魔之魂：重制版-白金让我落泪-喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021012701.%E6%81%B6%E9%AD%94%E4%B9%8B%E9%AD%82%EF%BC%9A%E9%87%8D%E5%88%B6%E7%89%88-%E7%99%BD%E9%87%91%E8%AE%A9%E6%88%91%E8%90%BD%E6%B3%AA-%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 [PS5体验-加载时间才是头牌](https://github.com/yuiitsu/Article/blob/master/Other/2021012001.PS5%E4%BD%93%E9%AA%8C-%E5%8A%A0%E8%BD%BD%E6%97%B6%E9%97%B4%E6%89%8D%E6%98%AF%E5%A4%B4%E7%89%8C.md)
 
 [如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[[认识节点]RigidBody2D：更合理的物理碰撞表现-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010502.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E6%9B%B4%E5%90%88%E7%90%86%E7%9A%84%E7%89%A9%E7%90%86%E7%A2%B0%E6%92%9E%E8%A1%A8%E7%8E%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[摄像机BUG：Smoothing下跟随的像素Sprite会抖动问题](https://github.com/yuiitsu/Article/blob/master/Godot/2021010501.%E6%91%84%E5%83%8F%E6%9C%BABUG%EF%BC%9ASmoothing%E4%B8%8B%E8%B7%9F%E9%9A%8F%E7%9A%84%E5%83%8F%E7%B4%A0Sprite%E4%BC%9A%E6%8A%96%E5%8A%A8%E9%97%AE%E9%A2%98.md)
 
 ## 目录
 
@@ -99,6 +99,8 @@
     
     [10.恶魔之魂：重制版-白金让我落泪-喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021012701.%E6%81%B6%E9%AD%94%E4%B9%8B%E9%AD%82%EF%BC%9A%E9%87%8D%E5%88%B6%E7%89%88-%E7%99%BD%E9%87%91%E8%AE%A9%E6%88%91%E8%90%BD%E6%B3%AA-%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
+    [11.从魂游戏看BOSS的战斗设计](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021020401.%E4%BB%8E%E9%AD%82%E6%B8%B8%E6%88%8F%E7%9C%8BBOSS%E7%9A%84%E6%88%98%E6%96%97%E8%AE%BE%E8%AE%A1.md)
+
 * PHP
 
     [1.CentOS下PHP7的编译安装，MySQL的支持和一些问题的解决.md](https://github.com/yuiitsu/Blog/blob/master/Php/CentOS%E4%B8%8BPHP7%E7%9A%84%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%EF%BC%8CMySQL%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3.md)
@@ -160,6 +162,8 @@
     [21.[认识节点]RigidBody2D：更合理的物理碰撞表现-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010502.%5B%E8%AE%A4%E8%AF%86%E8%8A%82%E7%82%B9%5DRigidBody2D%EF%BC%9A%E6%9B%B4%E5%90%88%E7%90%86%E7%9A%84%E7%89%A9%E7%90%86%E7%A2%B0%E6%92%9E%E8%A1%A8%E7%8E%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
     [22.如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+    [23.Navigation2D:寻路-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021031101.Navigation2D:%E5%AF%BB%E8%B7%AF-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
 * YuiAPI
