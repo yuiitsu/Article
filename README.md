@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[如何处理从平台下落-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021032501.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%8E%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%90%BD-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
 [Navigation2D:寻路-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021031101.Navigation2D:%E5%AF%BB%E8%B7%AF-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [从魂游戏看BOSS的战斗设计](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021020401.%E4%BB%8E%E9%AD%82%E6%B8%B8%E6%88%8F%E7%9C%8BBOSS%E7%9A%84%E6%88%98%E6%96%97%E8%AE%BE%E8%AE%A1.md)
@@ -10,8 +12,6 @@
 [恶魔之魂：重制版-白金让我落泪-喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021012701.%E6%81%B6%E9%AD%94%E4%B9%8B%E9%AD%82%EF%BC%9A%E9%87%8D%E5%88%B6%E7%89%88-%E7%99%BD%E9%87%91%E8%AE%A9%E6%88%91%E8%90%BD%E6%B3%AA-%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 [PS5体验-加载时间才是头牌](https://github.com/yuiitsu/Article/blob/master/Other/2021012001.PS5%E4%BD%93%E9%AA%8C-%E5%8A%A0%E8%BD%BD%E6%97%B6%E9%97%B4%E6%89%8D%E6%98%AF%E5%A4%B4%E7%89%8C.md)
-
-[如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 ## 目录
 
@@ -164,6 +164,8 @@
     [22.如何添加加速度和摩擦力-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021010601.%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6%E5%92%8C%E6%91%A9%E6%93%A6%E5%8A%9B-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
     [23.Navigation2D:寻路-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021031101.Navigation2D:%E5%AF%BB%E8%B7%AF-Godot3-2D%E6%95%99%E7%A8%8B.md)
+
+    [24.如何处理从平台下落-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021032501.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%8E%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%90%BD-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 
 * YuiAPI
