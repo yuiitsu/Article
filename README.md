@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[光环：无限 - FPS就只能这样了吗？ - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021121701.%E5%85%89%E7%8E%AF%EF%BC%9A%E6%97%A0%E9%99%90%20-%20FPS%E5%B0%B1%E5%8F%AA%E8%83%BD%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%EF%BC%9F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
+
 [柯娜：精神之桥 - 又一款被美术拯救的游戏 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021101601.%E6%9F%AF%E5%A8%9C%EF%BC%9A%E7%B2%BE%E7%A5%9E%E4%B9%8B%E6%A1%A5%20-%20%E5%8F%88%E4%B8%80%E6%AC%BE%E8%A2%AB%E7%BE%8E%E6%9C%AF%E6%8B%AF%E6%95%91%E7%9A%84%E6%B8%B8%E6%88%8F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 [如何制作圆周运动的平台-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021090201.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8%E7%9A%84%E5%B9%B3%E5%8F%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
@@ -10,8 +12,6 @@
 [如何制作移动的平台-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021050501.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%9A%84%E5%B9%B3%E5%8F%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [如何处理从平台下落-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021032501.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%8E%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%90%BD-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[Navigation2D:寻路-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021031101.Navigation2D:%E5%AF%BB%E8%B7%AF-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 ## 目录
 
@@ -102,6 +102,8 @@
     [11.从魂游戏看BOSS的战斗设计](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021020401.%E4%BB%8E%E9%AD%82%E6%B8%B8%E6%88%8F%E7%9C%8BBOSS%E7%9A%84%E6%88%98%E6%96%97%E8%AE%BE%E8%AE%A1.md)
 
     [12.柯娜：精神之桥 - 又一款被美术拯救的游戏 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021101601.%E6%9F%AF%E5%A8%9C%EF%BC%9A%E7%B2%BE%E7%A5%9E%E4%B9%8B%E6%A1%A5%20-%20%E5%8F%88%E4%B8%80%E6%AC%BE%E8%A2%AB%E7%BE%8E%E6%9C%AF%E6%8B%AF%E6%95%91%E7%9A%84%E6%B8%B8%E6%88%8F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
+
+    [13.光环：无限 - FPS就只能这样了吗？ - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021121701.%E5%85%89%E7%8E%AF%EF%BC%9A%E6%97%A0%E9%99%90%20-%20FPS%E5%B0%B1%E5%8F%AA%E8%83%BD%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%EF%BC%9F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 * PHP
 
