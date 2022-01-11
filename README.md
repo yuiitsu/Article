@@ -3,6 +3,8 @@
 
 ## 最近更新
 
+[如何通过API获取PSN奖杯信息](https://github.com/yuiitsu/Article/blob/master/Other/2022011101.%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87API%E8%8E%B7%E5%8F%96PSN%E5%A5%96%E6%9D%AF%E4%BF%A1%E6%81%AF.md)
+
 [光环：无限 - FPS就只能这样了吗？ - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021121701.%E5%85%89%E7%8E%AF%EF%BC%9A%E6%97%A0%E9%99%90%20-%20FPS%E5%B0%B1%E5%8F%AA%E8%83%BD%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%EF%BC%9F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
 
 [柯娜：精神之桥 - 又一款被美术拯救的游戏 - 喷游戏](https://github.com/yuiitsu/Article/blob/master/penyouxi/2021101601.%E6%9F%AF%E5%A8%9C%EF%BC%9A%E7%B2%BE%E7%A5%9E%E4%B9%8B%E6%A1%A5%20-%20%E5%8F%88%E4%B8%80%E6%AC%BE%E8%A2%AB%E7%BE%8E%E6%9C%AF%E6%8B%AF%E6%95%91%E7%9A%84%E6%B8%B8%E6%88%8F%20-%20%E5%96%B7%E6%B8%B8%E6%88%8F.md)
@@ -10,8 +12,6 @@
 [如何制作圆周运动的平台-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021090201.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8%E7%9A%84%E5%B9%B3%E5%8F%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 [如何制作移动的平台-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021050501.%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%9A%84%E5%B9%B3%E5%8F%B0-Godot3-2D%E6%95%99%E7%A8%8B.md)
-
-[如何处理从平台下落-Godot3-2D教程](https://github.com/yuiitsu/Article/blob/master/Godot/2021032501.%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%8E%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%90%BD-Godot3-2D%E6%95%99%E7%A8%8B.md)
 
 ## 目录
 
@@ -76,6 +76,8 @@
     [8.新人尝试Wacom One DCT-133](https://github.com/yuiitsu/Article/blob/master/Other/2020112402.%E6%96%B0%E4%BA%BA%E5%B0%9D%E8%AF%95WacomOneDCT-133.md)
 
     [9.PS5体验-加载时间才是头牌](https://github.com/yuiitsu/Article/blob/master/Other/2021012001.PS5%E4%BD%93%E9%AA%8C-%E5%8A%A0%E8%BD%BD%E6%97%B6%E9%97%B4%E6%89%8D%E6%98%AF%E5%A4%B4%E7%89%8C.md)
+
+    [10.如何通过API获取PSN奖杯信息](https://github.com/yuiitsu/Article/blob/master/Other/2022011101.%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87API%E8%8E%B7%E5%8F%96PSN%E5%A5%96%E6%9D%AF%E4%BF%A1%E6%81%AF.md)
 
 * PenYouXi
 
